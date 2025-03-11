@@ -53,9 +53,8 @@
 
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-Jb&template=https://github.com/NjabuloJ/Njabul-Jb.git)***
-
-<br>
+ 
+<a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-Jb"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
 
 
