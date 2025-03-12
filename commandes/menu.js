@@ -45,9 +45,8 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┣◆◎ 𝙼𝚎𝚖𝚘𝚛𝚢 : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ┣◆ ╰┈┈┈┈┈┈┈┈┈┈┈⊷
 ╰┈┈┈✧ɴᴊᴀʙᴜʟᴏ ᴊʙ✧┈┈┈┈⊷ \n`;
-
-  ${readmore}
-    let menuMsg = `@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 𝗖𝗺𝗗`;
+    
+    let menuMsg = `𝘀𝗶𝗿 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲𝘀`;
     
     for (const cat in coms) {
         menuMsg += `
