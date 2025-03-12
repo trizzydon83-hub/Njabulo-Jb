@@ -35,12 +35,13 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┣◆◎ 𝙾𝚠𝚗𝚎𝚛 : ${s.OWNER_NAME}
 ┣◆◎ 𝙿𝚛𝚎𝚏𝚒𝚡 : [ ${s.PREFIXE} ]
 ┣◆◎ 𝙼𝚘𝚍𝚎 : ${mode}
-┣◆◎ 𝚁𝚊𝚖  : 8/132 GB
+┣◆◎ 𝚃𝚒𝚖𝚎: ${formattedTime}
 ┣◆◎ 𝙳𝚊𝚝𝚎  : ${date}
 ┣◆◎ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┣◆◎ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 :𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳 
+┣◆◎ 𝚃𝚒𝚖𝚎 𝚣𝚘𝚗𝚎 : Africa/Nairobi
+┣◆◎ 𝚃𝚘𝚝𝚊𝚕 𝚞𝚜𝚎𝚛𝚜:* ${formattedTotalUsers} users
 ┣◆◎ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┣◆ 𝚃𝚑𝚎𝚖𝚎 :rahman𝚒
+┣◆◎ 𝚛𝚊𝚖 : 38.52 GB/61.79 GB
 ┣◆ ╰┈┈┈┈┈┈┈┈┈┈┈⊷
 ╰┈┈┈✧ɴᴊᴀʙᴜʟᴏ ᴊʙ✧┈┈┈┈⊷ \n`;
 
@@ -48,12 +49,12 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     
     for (const cat in coms) {
         menuMsg += `
-━━━❂ *${cat}* ❂⁠⁠⁠⁠━━─••
+• ${cat} •
 ╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 ┣◆╭┈┈┈┈┈┈┈┈┈┈┈⊷ `;
         for (const cmd of coms[cat]) {
             menuMsg += `          
-┣◆ ${s.PREFIXE}  *${cmd}*`;    
+┣◆ ${s.PREFIXE}  ${cmd}.${toFancyLowercaseFont(command)}`;    
         }
         menuMsg += `
 ┣◆╰┈┈┈┈┈┈┈┈┈┈┈⊷
@@ -61,7 +62,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> @𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳\n`;
+> @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
