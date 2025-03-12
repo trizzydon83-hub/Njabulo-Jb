@@ -103,7 +103,7 @@ const getRandomQuote = () => {
     return quotes[randomIndex];
 };
 
-zokou({ nomCom: "menu5", aliases: ["liste", "helplist", "commandlist"], categorie: "system" }, async (message, client, config) => {
+zokou({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie: "system" }, async (message, client, config) => {
     const { ms, respond, prefix, nomAuteurMessage } = config;
     const commands = require(__dirname + "/../fredi/ezra").cm;
     const categorizedCommands = {};
