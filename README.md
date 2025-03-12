@@ -54,9 +54,8 @@
 
 
  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-Jb"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
-
-
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-Jb"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
+  
 
 ## 💻 NJABULO JB REPO ACTIVITY
 
