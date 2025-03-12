@@ -7,7 +7,7 @@ const {
   zokou
 } = require("../framework/zokou");
 zokou({
-  'nomCom': "menu1",
+  'nomCom': "⚔️",
   'reaction': '⚔️',
   'categorie': "Support-Owner",
   'nomFichier': __filename
@@ -21,7 +21,8 @@ zokou({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/hlazmb.jpg",
         'title': "Join Our WhatsApp Group",
-        'body': "Modern-Logo*
+        'body': "Modern-Logo"
+    let infoMsg = `
 - .birthday1
 - .birthday2
 - .birthday3
@@ -68,7 +69,7 @@ zokou({
 - .christmas
 - .frost
 - .christmas
-- .mechanical""
+- .mechanical`;
       }
     }
   });
