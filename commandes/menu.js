@@ -46,10 +46,6 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┣◆ ╰┈┈┈┈┈┈┈┈┈┈┈⊷
 ╰┈┈┈✧ɴᴊᴀʙᴜʟᴏ ᴊʙ✧┈┈┈┈⊷ \n`;
 
-🌆Good evening! time to relax
-
-➤•••${readmore}    
-`;
     let menuMsg = `𝘀𝗶𝗿 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲𝘀`;
     
     for (const cat in coms) {
