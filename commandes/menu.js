@@ -30,7 +30,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     const date = moment().format('DD/MM/YYYY');
 
     let infoMsg = `
-   *Hello* : ${s.OWNER_NAME}
+   *Hello👋* : ${s.OWNER_NAME}
     
 ╭┈┈┈✧ɴᴊᴀʙᴜʟᴏ ᴊʙ✧┈┈┈┈⊷
 ┣◆ ╭┈┈┈┈┈┈┈┈┈┈┈⊷
