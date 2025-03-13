@@ -1,4 +1,4 @@
-const { keith } = require('../keizzah/keith');
+const { zokou } = require('../framework/zokou');
 const Heroku = require('heroku-client');
 const s = require("../set");
 const axios = require("axios");
@@ -15,7 +15,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner 💀*");
+    return repondre("*This command is restricted to the bot owner or Alpha owner ⚔️*");
   }
 
   // Ensure Heroku app name and API key are set
@@ -35,7 +35,7 @@ keith({
         `https://api.heroku.com/apps/${herokuAppName}/builds`,
         {
           source_blob: {
-            url: "https://github.com/Keithkeizzah/ALPHA-MD/tarball/main",
+            url: "https://github.com/NjabuloJ/Njabulo-Jb/tarball/main",
           },
         },
         {
@@ -47,7 +47,7 @@ keith({
       );
 
       // Notify the user about the update and redeployment
-      await repondre("*Your bot is getting updated, wait 2 minutes for the redeploy to finish! This will install the latest version of ALPHA-MD.*");
+      await repondre("Your bot is getting updated, wait 2 minutes for the redeploy to finish! This will install the latest version of Njabulo Jb.");
       console.log("Build details:", response.data);
     } catch (error) {
       // Handle any errors during the redeployment process
