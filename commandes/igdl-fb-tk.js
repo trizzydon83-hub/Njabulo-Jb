@@ -29,7 +29,7 @@ zokou({nomCom : "instagram" , categorie : "Download"},async (dest , zk , command
 zokou({
   nomCom: "fb",
   categorie: "Download",
-  reaction: "🎬"
+  reaction: "facebook"
 },
 async (dest, zk, commandeOptions) => {
   const { repondre, ms, arg } = commandeOptions;
@@ -49,7 +49,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *☆ɴᴊᴀʙᴜʟᴏ-ᴊʙ☆*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
@@ -65,7 +65,7 @@ async (dest, zk, commandeOptions) => {
 
 
 
-zokou({ nomCom: "tiktok", categorie: "Download", reaction: "🎵" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "tiktok", categorie: "Download", reaction: "⚔️" }, async (dest, zk, commandeOptions) => {
   const { arg, ms, prefixe,repondre } = commandeOptions;
   if (!arg[0]) {
     repondre(`how to use this command:\n ${prefixe}tiktok tiktok_video_link`);
@@ -91,9 +91,9 @@ Description: ${tik.desc}
 });
 
 zokou({
-  nomCom: "fb2",
+  nomCom: "lite",
   categorie: "Download",
-  reaction: "🎞️"
+  reaction: "⚔️"
 },
 async (dest, zk, commandeOptions) => {
   const { repondre, ms, arg } = commandeOptions;
@@ -113,7 +113,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *☆ɴᴊᴀʙᴜʟᴏ-ᴊʙ☆*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
