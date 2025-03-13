@@ -8,7 +8,7 @@ zokou({
   nomCom: "play",
   aliases: ["song", "playdoc", "audio", "mp3"],
   categorie: "Search",
-  reaction: "🎥"
+  reaction: "⚔️"
 }, async (dest, zk, commandOptions) => {
   const { arg, ms, repondre } = commandOptions;
 
@@ -72,7 +72,7 @@ zokou({
         mimetype: 'audio/mp4',
         contextInfo: {
           externalAdReply: {
-            title: videoDetails.title,
+            title: "@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯"
             body: videoDetails.title,
             mediaType: 1,
             sourceUrl: conf.GURL,
@@ -87,7 +87,7 @@ zokou({
         mimetype: 'audio/mpeg',
         contextInfo: {
           externalAdReply: {
-            title: videoDetails.title,
+            title: "@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯"
             body: videoDetails.title,
             mediaType: 1,
             sourceUrl: conf.GURL,
@@ -102,7 +102,7 @@ zokou({
         mimetype: 'audio/mp4',
         contextInfo: {
           externalAdReply: {
-            title: videoDetails.title,
+            title: "@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯"
             body: videoDetails.title,
             mediaType: 1,
             sourceUrl: conf.GURL,
@@ -130,7 +130,7 @@ zokou({
   nomCom: "video",
   aliases: ["videodoc", "film", "mp4"],
   categorie: "Search",
-  reaction: "🎥"
+  reaction: "⚔️"
 }, async (dest, zk, commandOptions) => {
   const { arg, ms, repondre } = commandOptions;
 
@@ -209,7 +209,7 @@ zokou({
         mimetype: 'video/mp4',
         contextInfo: {
           externalAdReply: {
-            title: videoDetails.title,
+            title: "@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯"
             body: videoDetails.title,
             mediaType: 1,
             sourceUrl: conf.GURL,
