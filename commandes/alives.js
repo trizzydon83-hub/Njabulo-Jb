@@ -3,15 +3,15 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { ezra } = require("../fredi/ezra");
 
 ezra(
-  { nomCom: "alive", reaction: "👊", nomFichier: __filename },
+  { nomCom: "alive", reaction: "⚔️", nomFichier: __filename },
   async (dest, zk, commandeOptions) => {
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/7ttvmj.jpg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/7ttvmj.jpg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/y9jvua.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/wdap4t.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vb2NqkvBPzjPEvFiYa0R"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -24,7 +24,7 @@ ezra(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `💦 Message from: ${contactName}\n🔥E.n.b Md Alive🔥`, // Your contact in WhatsApp status format
+            title: `💦 Message from: ${contactName}\n@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯`, // Your contact in WhatsApp status format
             body: "Yoh don't disturb am active🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
@@ -50,15 +50,15 @@ console.log("WhatsApp bot is ready!");
 
 
 ezra(
-  { nomCom: "test", reaction: "🌟", nomFichier: __filename },
+  { nomCom: "test", reaction: "⚔️", nomFichier: __filename },
   async (dest, zk, commandeOptions) => {
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/7ttvmj.jpg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/7ttvmj.jpg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/y9jvua.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/wdap4t.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vb2NqkvBPzjPEvFiYa0R"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -71,7 +71,7 @@ ezra(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `🌟 Message from: ${contactName}\n🔥 E.n.b Md Alive 🔥`, // Your contact in WhatsApp status format
+            title: `🌟 Message from: ${contactName}\n@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯`, // Your contact in WhatsApp status format
             body: "Yoh don't disturb am active🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
