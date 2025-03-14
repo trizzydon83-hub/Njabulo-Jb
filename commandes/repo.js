@@ -1,2 +1,87 @@
-(function(_0x31e2c6,_0x466799){const _0x1e558d=_0x3a1b,_0x4242a8=_0x31e2c6();while(!![]){try{const _0x6e1cc5=-parseInt(_0x1e558d(0x158))/(-0xfc7+-0x23d+-0x1*-0x1205)*(-parseInt(_0x1e558d(0x14d))/(0x1505+0x94d+-0x50*0x61))+-parseInt(_0x1e558d(0x150))/(0x15*-0x157+0x1*-0x2+0x88*0x35)+parseInt(_0x1e558d(0x154))/(0x1f*-0x25+0x412*0x4+-0x7*0x1af)+-parseInt(_0x1e558d(0x151))/(-0x2*0x686+-0x6*0x252+0x1afd)+parseInt(_0x1e558d(0x157))/(-0x43e+0x1746+-0x1302)+parseInt(_0x1e558d(0x14b))/(-0x1445+0x3*-0x477+-0x73*-0x4b)*(-parseInt(_0x1e558d(0x14c))/(-0x1f76+-0x15a*0xb+-0xac*-0x45))+parseInt(_0x1e558d(0x14f))/(-0x4*-0x812+-0xcbb*-0x1+-0x2cfa);if(_0x6e1cc5===_0x466799)break;else _0x4242a8['push'](_0x4242a8['shift']());}catch(_0x196041){_0x4242a8['push'](_0x4242a8['shift']());}}}(_0x3eea,0x77bd+-0x19*0x3505+0x41f*0x233));const axios=require('axios'),moment=require('moment-tim'+'ezone'),{zokou}=require(__dirname+('/../framew'+'ork/zokou'));let dynamicForks=0x33+0x15c1+-0x26c;const fetchGitHubRepoDetails=async()=>{const _0xea0a8=_0x3a1b;try{const _0x299604=await axios['get']('https://ap'+'i.github.c'+'om/repos/N'+'jabuloJ/Nj'+'abulo-Jb'),{name:_0x5f1a24,stargazers_count:_0x1940ac,watchers_count:_0x2365d6,open_issues_count:_0x53a2fc,forks_count:_0x2e6046,owner:_0x1152ca}=_0x299604['data'];return dynamicForks+=_0x2e6046,{'name':_0x5f1a24,'stars':_0x1940ac,'watchers':_0x2365d6,'issues':_0x53a2fc,'forks':dynamicForks,'owner':_0x1152ca['login'],'url':_0x299604['data'][_0xea0a8(0x152)]};}catch(_0xe7174e){return console['error'](_0xea0a8(0x156)+'hing\x20GitHu'+'b\x20reposito'+'ry\x20details'+':',_0xe7174e),null;}},commands=['repo'];function _0x3eea(){const _0x32ae81=['1739815TCIIvR','8GQdvcd','11634mSzBtC','â\u009dŒ\x20Failed','10756755MTXXEm','1123398vujvRc','2345040vzzvwq','html_url','sending\x20Gi','53592JMOlnT','AInPtfQ8fR','Error\x20fetc','733098jcceDx','8PDGhOq'];_0x3eea=function(){return _0x32ae81;};return _0x3eea();}function _0x3a1b(_0x17bdd6,_0x1703d0){const _0xc26cce=_0x3eea();return _0x3a1b=function(_0x55a56a,_0x54f22e){_0x55a56a=_0x55a56a-(0x357+0x4*0x33b+-0xef8);let _0x4f9720=_0xc26cce[_0x55a56a];return _0x4f9720;},_0x3a1b(_0x17bdd6,_0x1703d0);}commands['forEach'](_0x1ca6ff=>{const _0x1a8d3f=_0x3a1b,_0x33cd39={'wsiAS':_0x1a8d3f(0x14e)+'\x20to\x20fetch\x20'+'GitHub\x20rep'+'ository\x20in'+'formation.','cuwYH':'DD/MM/YYYY'+'\x20HH:mm:ss','dGjjy':function(_0x1f8e5e,_0x1a7318){return _0x1f8e5e+_0x1a7318;},'ormPf':function(_0x5f2caf,_0xca30b2){return _0x5f2caf+_0xca30b2;},'IqLSA':'ᴛᴀᴘ\x20ʜᴇʀ\x20ᴛᴏ'+'\x20ғᴏʟʟᴏᴡ\x20ᴏᴜ'+'ʀ\x20ᴄʜᴀɴɴᴇʟ!','jkBsv':'https://wh'+'atsapp.com'+'/channel/0'+'029VarYP5i'+'AInPtfQ8fR'+'b2T','ijiBv':'â\u009dŒ\x20Error\x20'+_0x1a8d3f(0x153)+'tHub\x20info:','BTQur':'â\u009dŒ\x20Error\x20'+'sending\x20Gi'+'tHub\x20info:'+'\x20'};zokou({'nomCom':_0x1ca6ff,'categorie':'GitHub'},async(_0x5572c8,_0x1227ab,_0x12485d)=>{const _0x53566b=_0x1a8d3f;let {repondre:_0x2b154b}=_0x12485d;const _0x273797=await fetchGitHubRepoDetails();if(!_0x273797){_0x2b154b(_0x33cd39['wsiAS']);return;}const {name:_0x163d01,stars:_0x338fb7,watchers:_0x845e6c,issues:_0x492e00,forks:_0x3bf668,owner:_0x327d1d,url:_0x1b763d}=_0x273797,_0x41ff89=moment()['tz']('Africa/Dod'+'oma')['format'](_0x33cd39['cuwYH']),_0x291a03=_0x33cd39['dGjjy'](_0x33cd39['dGjjy'](_0x33cd39['ormPf']('\x0a\x20*Name:*\x20'+_0x163d01+('\x0a\x20*Stars:*'+'\x20')+_0x338fb7['toLocaleSt'+'ring']()+('\x0a\x20*Forks:*'+'\x20'),_0x3bf668['toLocaleSt'+'ring']())+('\x0a\x20*Watcher'+'s:*\x20')+_0x845e6c['toLocaleSt'+'ring']()+('\x0a\x20*Open\x20Is'+'sues:*\x20'),_0x492e00['toLocaleSt'+'ring']()),'\x0a\x20*Owner:*'+'\x20')+_0x327d1d+('\x0a\x0a⌚\x20*Fetch'+'ed\x20on:*\x20')+_0x41ff89+('\x0a\x0a🔗\x20*Repo\x20'+'Link:*\x20')+_0x1b763d+('\x0a\x0aᴛᴀʏ\x20ᴜᴘᴅᴀ'+'ᴛᴇ\x20ᴡɪᴛʜ\x20ɴᴊ'+'ᴀʙᴜʟᴏ\x20ᴊʙ!');try{await _0x1227ab['sendMessag'+'e'](_0x5572c8,{'text':_0x291a03,'contextInfo':{'externalAdReply':{'title':'sᴛᴀʏ\x20ᴜᴘᴅᴀᴛ'+'ᴇ\x20ᴡɪᴛʜ\x20ɴᴊᴀ'+'ʙᴜʟᴏ\x20ᴊʙ','body':_0x33cd39['IqLSA'],'thumbnailUrl':'https://ca'+'tbox.moe/b'+'z9tzi.jpg','mediaType':0x1,'renderLargerThumbnail':!![],'mediaUrl':_0x33cd39['jkBsv'],'sourceUrl':'https://wh'+'atsapp.com'+'/channel/0'+'029VarYP5i'+_0x53566b(0x155)+'b2T'}}});}catch(_0x339e0c){console['error'](_0x33cd39['ijiBv'],_0x339e0c),_0x2b154b(_0x33cd39['BTQur']+_0x339e0c['message']);}});});
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+const axios = require('axios');
+const moment = require("moment-timezone");
+const { zokou } = require(__dirname + "/../framework/zokou");
+
+// Function to format large numbers with commas
+const formatNumber = (num) => num.toLocaleString();
+
+// Function to fetch detailed GitHub repository information
+const fetchGitHubRepoDetails = async () => {
+    try {
+        const repo = 'Pkdriller/PKXMD-BOT'; // Updated repo
+        const response = await axios.get(`https://api.github.com/repos/${repo}`);
+        const {
+            name, description, forks_count, stargazers_count,
+            watchers_count, open_issues_count, owner, license
+        } = response.data;
+
+        return {
+            name: "PKXMD-BOT", // Updated repo name
+            description: description || "No description provided",
+            forks: forks_count,
+            stars: stargazers_count,
+            watchers: watchers_count,
+            issues: open_issues_count,
+            owner: owner.login,
+            license: license ? license.name : "No license",
+            url: response.data.html_url,
+        };
+    } catch (error) {
+        console.error("Error fetching GitHub repository details:", error);
+        return null;
+    }
+};
+
+// Define the commands that can trigger this functionality
+const commands = ["git", "repo", "script", "sc"];
+
+commands.forEach((command) => {
+    zokou({ nomCom: command, categorie: "GitHub" }, async (dest, zk, commandeOptions) => {
+        let { repondre } = commandeOptions;
+
+        const repoDetails = await fetchGitHubRepoDetails();
+
+        if (!repoDetails) {
+            repondre("❌ Failed to fetch GitHub repository information.");
+            return;
+        }
+
+        const {
+            name, description, forks, stars, watchers,
+            issues, owner, license, url
+        } = repoDetails;
+
+        const currentTime = moment().format('DD/MM/YYYY HH:mm:ss');
+        const infoMessage = `
+🌐 *GitHub Repository Info* 🌐
+
+💻 *Name:* ${name}
+📜 *Description:* ${description}
+⭐ *Stars:* ${formatNumber(stars)}
+🍴 *Forks:* ${formatNumber(forks)}
+👀 *Watchers:* ${formatNumber(watchers)}
+❗ *Open Issues:* ${formatNumber(issues)}
+👤 *Owner:* ${owner}
+📄 *License:* ${license}
+
+📅 *Fetched on:* ${currentTime}
+`;
+
+        try {
+            // Send the follow-up image first with a caption
+            await zk.sendMessage(dest, {
+                image: { url: "https://files.catbox.moe/fbpw8g.jpg" }, // Updated image
+                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *PKXMD-BOT*\n\nRepo URL:\nhttps://github.com/Pkdriller/PKXMD-BOT`,
+            });
+
+            // Follow up with the GitHub repository details
+            await zk.sendMessage(dest, {
+                text: infoMessage,
+            });
+
+        } catch (e) {
+            console.log("❌ Error sending GitHub info:", e);
+            repondre("❌ Error sending GitHub info: " + e.message);
+        }
+    });
+});
