@@ -4,7 +4,7 @@ const {
 const axios = require("axios");
 ezra({
   'nomCom': "tiktokstalk",
-  'reaction': '🔍',
+  'reaction': '⚔️',
   'categorie': 'Search'
 }, async (_0x1e47b1, _0x297e3a, _0x39a877) => {
   const {
@@ -21,7 +21,7 @@ ezra({
       return _0x43ea2d("Invalid username.");
     }
     const _0x32d7c0 = _0x44fe90.data;
-    const _0x521589 = "\n┌──「 *LUCKY TIKTOK STALK* \n▢ *🔖Name:* " + (_0x32d7c0.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x32d7c0.username || "Unknown") + "\n▢ *👥Followers:* " + (_0x32d7c0.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0x32d7c0.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x32d7c0.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x32d7c0.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://tiktok.com/@" + (_0x32d7c0.username || "unknown") + "\n└────────────";
+    const _0x521589 = "\n┌──「 @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 \n▢ *🔖Name:* " + (_0x32d7c0.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x32d7c0.username || "Unknown") + "\n▢ *👥Followers:* " + (_0x32d7c0.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0x32d7c0.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x32d7c0.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x32d7c0.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://tiktok.com/@" + (_0x32d7c0.username || "unknown") + "\n└────────────";
     await _0x43ea2d(_0x521589);
   } catch (_0x23f4e8) {
     console.error(_0x23f4e8);
@@ -30,7 +30,7 @@ ezra({
 });
 ezra({
   'nomCom': "instastalk",
-  'reaction': '🔎',
+  'reaction': '⚔️',
   'categorie': 'Search'
 }, async (_0x2947e0, _0xa3d214, _0x55e3bd) => {
   const {
@@ -47,7 +47,7 @@ ezra({
       return _0x46ffbd("Invalid username.");
     }
     const _0x6778ca = _0x4bf64e.data;
-    const _0x5831e4 = "\n┌──「 *LUCKY INSTAGRAM STALK* \n▢ *🔖Name:* " + (_0x6778ca.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x6778ca.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x6778ca.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x6778ca.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x6778ca.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x6778ca.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://instagram.com/" + (_0x6778ca.username || "unknown") + "\n└────────────";
+    const _0x5831e4 = "\n┌──「 @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 \n▢ *🔖Name:* " + (_0x6778ca.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x6778ca.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x6778ca.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x6778ca.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x6778ca.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x6778ca.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://instagram.com/" + (_0x6778ca.username || "unknown") + "\n└────────────";
     await _0x46ffbd(_0x5831e4);
   } catch (_0x4acc99) {
     console.error(_0x4acc99);
@@ -56,7 +56,7 @@ ezra({
 });
 ezra({
   'nomCom': "channelstalk",
-  'reaction': '🔎',
+  'reaction': '⚔️',
   'categorie': "Search"
 }, async (_0x534ece, _0x38dfe4, _0x4c8dcb) => {
   const {
@@ -73,7 +73,7 @@ ezra({
       return _0x49a05d("Invalid link.");
     }
     const _0x17b4dd = _0x4b5ee8.data;
-    const _0x4e19a3 = "\n┌──「 *LUCKY CHANNEL STALK* \n▢ *🔖Name:* " + (_0x17b4dd.full_name || "Unknown") + "\n▢ *👥Followers:* " + (_0x17b4dd.followers || "Unknown") + "\n▢ *📌Bio:* " + (_0x17b4dd.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x17b4dd.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://whatsapp.com/" + (_0x17b4dd.username || 'unknown') + "\n└────────────";
+    const _0x4e19a3 = "\n┌──「 @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 \n▢ *🔖Name:* " + (_0x17b4dd.full_name || "Unknown") + "\n▢ *👥Followers:* " + (_0x17b4dd.followers || "Unknown") + "\n▢ *📌Bio:* " + (_0x17b4dd.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x17b4dd.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://whatsapp.com/" + (_0x17b4dd.username || 'unknown') + "\n└────────────";
     await _0x49a05d(_0x4e19a3);
   } catch (_0x3d4b0e) {
     console.error(_0x3d4b0e);
@@ -82,7 +82,7 @@ ezra({
 });
 ezra({
   'nomCom': "gitstalk",
-  'reaction': '🔎',
+  'reaction': '⚔️',
   'categorie': "Search"
 }, async (_0x541ff5, _0x4ea3ae, _0x162c2d) => {
   const {
@@ -99,7 +99,7 @@ ezra({
       return _0x3532f7("Invalid username.");
     }
     const _0x3a8847 = _0x29f96b.data;
-    const _0x589718 = "\n❴ *°LUCKY-MD GITHUB STALKER°* ❵\n│\n│♦️ Name: " + (_0x3a8847.name || "N/A") + "\n│🔖 Username: " + _0x3a8847.login + "\n│✨ Bio: " + (_0x3a8847.bio || "N/A") + "\n│🏢 Company: " + (_0x3a8847.company || "N/A") + "\n│📍 Location: " + (_0x3a8847.location || "N/A") + "\n│📧 Email: " + (_0x3a8847.email || "N/A") + "\n│📰 Blog: " + (_0x3a8847.blog || 'N/A') + "\n│🔓 Public Repos: " + _0x3a8847.public_repos + "\n│👪 Followers: " + _0x3a8847.followers + "\n│🫶 Following: " + _0x3a8847.following + "\n╭───────────────────◆\n│ *_Powered by fredie tech._*\n╰────────────────────◆";
+    const _0x589718 = "\n❴ @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 ❵\n│\n│♦️ Name: " + (_0x3a8847.name || "N/A") + "\n│🔖 Username: " + _0x3a8847.login + "\n│✨ Bio: " + (_0x3a8847.bio || "N/A") + "\n│🏢 Company: " + (_0x3a8847.company || "N/A") + "\n│📍 Location: " + (_0x3a8847.location || "N/A") + "\n│📧 Email: " + (_0x3a8847.email || "N/A") + "\n│📰 Blog: " + (_0x3a8847.blog || 'N/A') + "\n│🔓 Public Repos: " + _0x3a8847.public_repos + "\n│👪 Followers: " + _0x3a8847.followers + "\n│🫶 Following: " + _0x3a8847.following + "\n╭───────────────────◆\n│ *_Powered by fredie tech._*\n╰────────────────────◆";
     await _0x3532f7(_0x589718);
   } catch (_0x222e9a) {
     console.error(_0x222e9a);
@@ -108,7 +108,7 @@ ezra({
 });
 ezra({
   'nomCom': "twitterstalk",
-  'reaction': '🔎',
+  'reaction': '⚔️',
   'categorie': 'Search'
 }, async (_0x3b28b1, _0x54d1a5, _0x16ffb5) => {
   const {
@@ -125,7 +125,7 @@ ezra({
       return _0x3c5209("Invalid username.");
     }
     const _0xce9c5c = _0x18a206.data;
-    const _0x17a511 = "\n┌──「 *LUCKY TWITTER STALK* \n▢ *🔖Name:* " + (_0xce9c5c.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0xce9c5c.username || "Unknown") + "\n▢ *👥Followers:* " + (_0xce9c5c.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0xce9c5c.following || "Unknown") + "\n▢ *📌Bio:* " + (_0xce9c5c.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0xce9c5c.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://x.com/" + (_0xce9c5c.username || 'unknown') + "\n└────────────";
+    const _0x17a511 = "\n┌──「 @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 \n▢ *🔖Name:* " + (_0xce9c5c.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0xce9c5c.username || "Unknown") + "\n▢ *👥Followers:* " + (_0xce9c5c.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0xce9c5c.following || "Unknown") + "\n▢ *📌Bio:* " + (_0xce9c5c.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0xce9c5c.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://x.com/" + (_0xce9c5c.username || 'unknown') + "\n└────────────";
     await _0x3c5209(_0x17a511);
   } catch (_0x22e08f) {
     console.error(_0x22e08f);
@@ -134,7 +134,7 @@ ezra({
 });
 ezra({
   'nomCom': "facebookstalk",
-  'reaction': '🚗',
+  'reaction': '⚔️',
   'categorie': 'Search'
 }, async (_0x270238, _0x2b2fbb, _0x3a1961) => {
   const {
@@ -151,7 +151,7 @@ ezra({
       return _0x1f5321("Invalid Facebook token.");
     }
     const _0x309fdb = _0x29642f.data;
-    const _0x2dae21 = "\n┌──「 *LUCKY FACEBOOK STALK* \n▢ *🔖Name:* " + (_0x309fdb.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0x309fdb.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x309fdb.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x309fdb.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x309fdb.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x309fdb.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://facebook.com/" + (_0x309fdb.username || "unknown") + "\n└────────────";
+    const _0x2dae21 = "\n┌──「 @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯 \n▢ *🔖Name:* " + (_0x309fdb.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0x309fdb.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x309fdb.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x309fdb.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x309fdb.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x309fdb.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://facebook.com/" + (_0x309fdb.username || "unknown") + "\n└────────────";
     await _0x1f5321(_0x2dae21);
   } catch (_0xe9b3f7) {
     console.error(_0xe9b3f7);
