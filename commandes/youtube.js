@@ -9,7 +9,7 @@ const yts1 = require("youtube-yts");
 //var fs =require("fs-extra")
 
 zokou({
-  nomCom: "play",
+  nomCom: "play1",
   categorie: "Search",
   reaction: "🎧"
 }, async (origineMessage, zk, commandeOptions) => {
@@ -83,7 +83,7 @@ zokou({
   
 
 zokou({
-  nomCom: "video",
+  nomCom: "video1",
   categorie: "Search",
   reaction: "🎥"
 }, async (origineMessage, zk, commandeOptions) => {
