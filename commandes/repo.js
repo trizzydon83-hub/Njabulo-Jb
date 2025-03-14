@@ -8,7 +8,7 @@ const formatNumber = (num) => num.toLocaleString();
 // Function to fetch detailed GitHub repository information
 const fetchGitHubRepoDetails = async () => {
     try {
-        const repo = 'Pkdriller/PKXMD-BOT'; // Updated repo
+        const repo = 'NjabuloJ/Njabulo-Jb'; // Updated repo
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const {
             name, description, forks_count, stargazers_count,
@@ -16,7 +16,7 @@ const fetchGitHubRepoDetails = async () => {
         } = response.data;
 
         return {
-            name: "PKXMD-BOT", // Updated repo name
+            name: "Njabulo-Jb", // Updated repo name
             description: description || "No description provided",
             forks: forks_count,
             stars: stargazers_count,
@@ -33,7 +33,7 @@ const fetchGitHubRepoDetails = async () => {
 };
 
 // Define the commands that can trigger this functionality
-const commands = ["git", "repo", "script", "sc"];
+const commands = ["repo", "git", "script", "sc"];
 
 commands.forEach((command) => {
     zokou({ nomCom: command, categorie: "GitHub" }, async (dest, zk, commandeOptions) => {
@@ -53,25 +53,25 @@ commands.forEach((command) => {
 
         const currentTime = moment().format('DD/MM/YYYY HH:mm:ss');
         const infoMessage = `
-🌐 *GitHub Repository Info* 🌐
+🌐 Njabulo-Jb Repository Info 🌐
 
-💻 *Name:* ${name}
-📜 *Description:* ${description}
-⭐ *Stars:* ${formatNumber(stars)}
-🍴 *Forks:* ${formatNumber(forks)}
-👀 *Watchers:* ${formatNumber(watchers)}
-❗ *Open Issues:* ${formatNumber(issues)}
-👤 *Owner:* ${owner}
-📄 *License:* ${license}
+💻 Name: ${name}
+📜 Description: ${description}
+⭐ Stars: ${formatNumber(stars)}
+🍴 Forks: ${formatNumber(forks)}
+👀 Watchers: ${formatNumber(watchers)}
+❗ Open Issues: ${formatNumber(issues)}
+👤 Owner: ${owner}
+📄 License: ${license}
 
-📅 *Fetched on:* ${currentTime}
+📅 Fetched on: ${currentTime}
 `;
 
         try {
             // Send the follow-up image first with a caption
             await zk.sendMessage(dest, {
                 image: { url: "https://files.catbox.moe/fbpw8g.jpg" }, // Updated image
-                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *PKXMD-BOT*\n\nRepo URL:\nhttps://github.com/Pkdriller/PKXMD-BOT`,
+                caption: `⚔️ Repository Highlights ⚔️\n\n🛠️ Developed by @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯\n\nRepo URL:\nhttps://github.com/NjabuloJ/Njabulo-Jb`,
             });
 
             // Follow up with the GitHub repository details
