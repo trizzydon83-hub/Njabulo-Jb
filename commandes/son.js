@@ -23,7 +23,7 @@ zokou({
     _0x322f75 = _0x1b000a.videos;
     if (_0x322f75 && _0x322f75.length > 0) {
       const _0x165324 = _0x322f75[0].url;
-      const _0xd95cfd = await fetch("https://api.dreaded.site/api/ytdl/audio?url=$" + encodeURIComponent(_0x165324) + "&apikey=" + "gifted");
+      const _0x3650ad = await fetch("https://api.dreaded.site/api/ytdl/audio?url=" + encodeURIComponent(_0x3cf1db) + "&apikey=" + "gifted");
       const _0x257cbf = await _0xd95cfd.json();
       if (_0x257cbf.status === 200 && _0x257cbf.success) {
         const _0x53c40a = _0x257cbf.result.download_url;
@@ -40,6 +40,7 @@ zokou({
           'audio': {
             'url': _0x53c40a
           },
+          'caption': "𝚊𝚕𝚠𝚊𝚢𝚜•••𝚘𝚗𝚕𝚒𝚗𝚎!",
           'mimetype': "audio/mp4"
         }, {
           'quoted': _0x57f480
@@ -99,7 +100,7 @@ zokou({
         }, {
           'quoted': _0x4b29db
         });
-        _0x53a005("*enjoy music is life my friend*...");
+        _0x53a005("♻️𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ♻️");
       } else {
         _0x53a005("Failed to download the video. Please try again later.");
       }
