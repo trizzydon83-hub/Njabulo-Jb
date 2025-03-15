@@ -5,7 +5,7 @@ const yts = require("yt-search");
 zokou({
   'nomCom': "play1",
   'categorie': "Download",
-  'reaction': '🎶'
+  'reaction': '⚔️'
 }, async (_0x3bb19c, _0x1b59c4, _0x1ac9b2) => {
   const {
     ms: _0x57f480,
@@ -23,7 +23,7 @@ zokou({
     _0x322f75 = _0x1b000a.videos;
     if (_0x322f75 && _0x322f75.length > 0) {
       const _0x165324 = _0x322f75[0].url;
-      const _0x3650ad = await fetch("https://api.dreaded.site/api/ytdl/audio?url=" + encodeURIComponent(_0x3cf1db) + "&apikey=" + "gifted");
+       const _0x434f90 = await fetch("https://api.dreaded.site/api/ytdl/audio?url=$" + encodeURIComponent(_0x573538) + "&apikey=" + "gifted");
       const _0x257cbf = await _0xd95cfd.json();
       if (_0x257cbf.status === 200 && _0x257cbf.success) {
         const _0x53c40a = _0x257cbf.result.download_url;
@@ -45,7 +45,7 @@ zokou({
         }, {
           'quoted': _0x57f480
         });
-        _0x1ae903("*enjoy music is life my friend*...");
+        _0x1ae903("♻️𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ♻️");
       } else {
         _0x1ae903("Failed to download audio. Please try again later.");
       }
@@ -60,7 +60,7 @@ zokou({
 zokou({
   'nomCom': "video1",
   'categorie': "Download",
-  'reaction': '🎥'
+  'reaction': '⚔️'
 }, async (_0x1865cc, _0x52cb5d, _0x3ecbfa) => {
   const {
     ms: _0x4b29db,
