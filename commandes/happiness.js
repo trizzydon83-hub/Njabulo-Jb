@@ -46,7 +46,9 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┣◆ ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀs : sir Jb
 ┣◆ ᴘʟᴀᴛᴇғᴏʀᴍᴇ : ${os.platform()}
 ┣◆ ʀᴀᴍ :  ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}
-╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷`;
+╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷
+
+••• ${readmore}`;
 
     let menuMsg = `⚔️`;
     
@@ -90,13 +92,8 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 
 
 🌐 NJABULO JB REPOSITORY INFO 🌐
-
-💻 Name: Njabulo-Jb
-📜 Description: Sir Njabulo-Jb The Ultimate device WhatsApp Bot!  An AI-powered, multi-functional WhatsApp bot packed with automation, media tools, smart responses, group controls, and more! Experience blazing-fast performance, seamless interaction, and powerful features all in one bot. Customize, automate, and dominate!
-
-࿇ Repository Highlights ࿇
-
-🛠️ Developed by @𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯
+ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ ʙᴇʟᴏᴡ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ
+> https://shorturl.at/q8ZuS
 
 Repo URL:
 https://github.com/NjabuloJ/Njabulo-Jb
