@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206);
 const readmore = more.repeat(4001);
 
-zokou({ nomCom: "happiness", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre, prefixe, nomAuteurMessage, mybotpic } = commandeOptions;
     let { cm } = require(__dirname + "/../framework/zokou");
     let coms = {};
@@ -35,20 +35,23 @@ zokou({ nomCom: "happiness", categorie: "Menu" }, async (dest, zk, commandeOptio
 
 *🌇 Hy good evening, •• .* ${nomAuteurMessage} 
 
-╭┈⊷〔 ✧⁠@𝘀𝗶𝗿 𝗵𝗮𝗽𝗽𝗶𝗻𝗲𝘀𝘀✧⁠〕┈⊷𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭
-┣◆ *ʙᴏᴛ ᴏᴡɴᴇʀ* : ${s.OWNER_NAME}
-┣◆ *ᴘʀᴇғɪx* :  *[ ${s.PREFIXE} ]*
-┣◆ *ᴛɪᴍᴇ* : ${temps}
-┣◆ *ᴄᴏᴍᴍᴀɴᴅꜱ* : ${cm.length} 
-┣◆ *ᴅᴀᴛᴇ* : ${date} 
-┣◆ *ᴍᴏᴅᴇ* : ${mode}  
-┣◆ *ᴛɪᴍᴇ ᴢᴏɴᴇ* : Africa/Dar Es Salam
-┣◆ *ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀs* : sir Jb
-┣◆ *ᴘʟᴀᴛᴇғᴏʀᴍᴇ* : ${os.platform()}
-┣◆ *ʀᴀᴍ* :  ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}
-╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷
+╭┈⊷〔 ✧⁠@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯✧⁠〕⊷┈⊷𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭
+┣◆ ʙᴏᴛ ᴏᴡɴᴇʀ : ${s.OWNER_NAME}
+┣◆ ᴘʀᴇғɪx :  [ ${s.PREFIXE} ]
+┣◆ ᴛɪᴍᴇ : ${temps}
+┣◆ ᴄᴏᴍᴍᴀɴᴅꜱ : ${cm.length} 
+┣◆ ᴅᴀᴛᴇ : ${date} 
+┣◆ ᴍᴏᴅᴇ : ${mode}  
+┣◆ ᴛɪᴍᴇ ᴢᴏɴᴇ : Africa/Dar Es Salam
+┣◆ ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀs : sir Jb
+┣◆ ᴘʟᴀᴛᴇғᴏʀᴍᴇ : ${os.platform()}
+┣◆ ʀᴀᴍ :  ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}
+╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷`;
 
+    let menuMsg = `⚔️`;
     
+     {
+        menuMsg += `
   REPLY A  WITH NAME CMD  
 
 1࿇ TYPE  AI MENU
