@@ -1,0 +1,113 @@
+const util = require('util');
+const fs = require('fs-extra');
+const axios = require('axios');
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format } = require(__dirname + "/../framework/mesfonctions");
+const os = require("os");
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../set");
+
+const more = String.fromCharCode(8206);
+const readmore = more.repeat(4001);
+
+zokou({ nomCom: "menuai", categorie: "General" }, async (dest, zk, commandeOptions) => {
+    let { ms, repondre, prefixe, nomAuteurMessage, mybotpic } = commandeOptions;
+    let { cm } = require(__dirname + "/../framework/zokou");
+
+    var commandsList = {};
+    var mode = (s.MODE).toLocaleLowerCase() !== "yes" ? "private" : "public";
+
+    cm.map((com) => {
+        if (!commandsList[com.categorie]) commandsList[com.categorie] = [];
+        commandsList[com.categorie].push(com.nomCom);
+    });
+
+    moment.tz.setDefault('EAT');
+
+    const time = moment().format('HH:mm:ss');
+    const date = moment().format('DD/MM/YYYY');
+
+    let infoMsg = `
+*┈「 𝐀𝐈 」┈*
+╭┈┈┈┈┈┈┈┈┈┈┈⊷
+┊▸ 1.  L𝚞𝚌𝚔𝚊
+┊▸ 2. 1917
+┊▸ 3. 𝚊𝚍
+┊▸ 4. 𝚊𝚕𝚎𝚛𝚝
+┊▸ 5. 𝚋𝚎𝚊𝚞𝚝𝚒𝚏𝚢
+┊▸ 6. 𝚋𝚒𝚍𝚎𝚗
+┊▸ 7. 𝚋𝚒𝚗𝚐
+┊▸ 8. 𝚋𝚒𝚗𝚐2
+┊▸ 9. 𝚋𝚕𝚞𝚛
+┊▸ 10. 𝚋𝚛𝚊𝚒𝚗𝚜𝚑𝚘𝚙
+┊▸ 11. 𝚌𝚊𝚛𝚝𝚘𝚘𝚗
+┊▸ 12. 𝚌𝚊𝚞𝚝𝚒𝚘𝚗
+┊▸ 13. 𝚌𝚑𝚊𝚝
+┊▸ 14. 𝚌𝚕𝚘𝚠𝚗
+┊▸ 15. 𝚍𝚛𝚊𝚔𝚎
+┊▸ 16. 𝚍𝚛𝚒𝚙
+┊▸ 17. 𝚎𝚡𝚝𝚛𝚊𝚌𝚝
+┊▸ 18. 𝚐𝚎𝚖𝚒𝚗𝚒
+┊▸ 19. 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎
+┊▸ 20. 𝚐𝚏𝚡
+┊▸ 21. 𝚐𝚏𝚡2
+┊▸ 22. 𝚐𝚏𝚡3
+┊▸ 23. 𝚐𝚏𝚡4
+┊▸ 24. 𝚐𝚏𝚡5
+┊▸ 25. 𝚐𝚏𝚡6
+┊▸ 26. 𝚐𝚙𝚝7
+┊▸ 27. 𝚐𝚝𝚊
+┊▸ 28. 𝚒𝚕𝚊𝚖𝚊
+┊▸ 29. 𝚕𝚞𝚕𝚌𝚊𝚝
+┊▸ 30. 𝚖𝚎𝚖𝚎
+┊▸ 31. 𝚗𝚎𝚠𝚜
+┊▸ 32. 𝚗𝚘𝚔𝚒𝚊
+┊▸ 33. 𝚘𝚘𝚐𝚠𝚊𝚢
+┊▸ 34. 𝚙𝚎𝚝
+┊▸ 35. 𝚙𝚘𝚘𝚑
+┊▸ 36. 𝚜𝚊𝚍𝚌𝚊𝚝
+┊▸ 37. 𝚝𝚎𝚡𝚝2𝚙𝚛𝚘𝚖𝚙𝚝
+┊▸ 38. 𝚞𝚗𝚍𝚎𝚛𝚠𝚊𝚝𝚎𝚛
+┊▸ 39. 𝚞𝚗𝚏𝚘𝚛𝚐𝚒𝚟𝚊𝚋𝚕𝚎
+┊▸ 40. 𝚠𝚊𝚝𝚎𝚛𝚌𝚘𝚕𝚘𝚛
+┊▸ 41. 🤔
+╰┈┈┈┈┈┈┈┈┈┈┈⊷
+`;
+    }
+
+    menuMsg += `\n> ➠ᴍᴀᴅᴇ ʙʏ ɴᴊᴀʙᴜʟᴏ ᴊʙ`;
+
+    var imageUrl = "https://files.catbox.moe/19xbc3.jpg";
+
+    try {
+        if (imageUrl.match(/\.(mp4|gif)$/i)) {
+            await zk.sendMessage(dest, { video: { url: imageUrl }, caption: infoMsg + menuMsg, gifPlayback: true }, { quoted: ms });
+        } else if (imageUrl.match(/\.(jpeg|png|jpg)$/i)) {
+            await zk.sendMessage(dest, { image: { url: imageUrl }, caption: infoMsg + menuMsg }, { quoted: ms });
+        } else {
+            repondre(infoMsg + menuMsg);
+        }
+
+        // Download and send audio
+        const audioUrl = "https://files.catbox.moe/xci982.mp3";
+        const audioPath = "./temp_audio.mp3";
+
+        const response = await axios({
+            url: audioUrl,
+            method: "GET",
+            responseType: "stream",
+        });
+
+        const writer = fs.createWriteStream(audioPath);
+        response.data.pipe(writer);
+
+        writer.on("finish", async () => {
+            await zk.sendMessage(dest, { audio: { url: audioPath }, mimetype: "audio/mp4", ptt: true }, { quoted: ms });
+            fs.unlinkSync(audioPath); // Delete the audio file after sending
+        });
+
+    } catch (e) {
+        console.log("🥵🥵 Menu error: " + e);
+        repondre("🥵🥵 Menu error: " + e);
+    }
+});
