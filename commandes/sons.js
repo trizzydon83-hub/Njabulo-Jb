@@ -23,7 +23,7 @@ zokou({
     _0x322f75 = _0x1b000a.videos;
     if (_0x322f75 && _0x322f75.length > 0) {
       const _0x165324 = _0x322f75[0].url;
-      const _0xd95cfd = await fetch("https://api.dreaded.site/api/ytdl/audio?url=" + encodeURIComponent(_0x165324) + "&apikey=" + "gifted");
+      const _0xd95cfd = await fetch("https://apis.davidcyriltech.my.id/youtube/mp3?url=" + encodeURIComponent(_0x165324) + "&apikey=" + "gifted");
       const _0x257cbf = await _0xd95cfd.json();
       if (_0x257cbf.status === 200 && _0x257cbf.success) {
         const _0x53c40a = _0x257cbf.result.download_url;
