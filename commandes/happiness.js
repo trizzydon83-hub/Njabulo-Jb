@@ -46,9 +46,9 @@ zokou({ nomCom: "happiness", categorie: "Menu" }, async (dest, zk, commandeOptio
 ┣◆ *ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀs* : sir Jb
 ┣◆ *ᴘʟᴀᴛᴇғᴏʀᴍᴇ* : ${os.platform()}
 ┣◆ *ʀᴀᴍ* :  ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}
-╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷\n
+╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷
 
-    let menuMsg = `
+    
   REPLY A  WITH NAME CMD  
 
 1࿇ TYPE  AI MENU
