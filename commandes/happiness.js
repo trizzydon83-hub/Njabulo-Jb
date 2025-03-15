@@ -35,23 +35,20 @@ zokou({ nomCom: "happiness", categorie: "Menu" }, async (dest, zk, commandeOptio
 
 *🌇 Hy good evening, •• .* ${nomAuteurMessage} 
 
-╭┈⊷〔 ✧⁠@𝘀𝗶𝗿 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗯✧⁠〕⊷┈⊷𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭
-┣◆ ʙᴏᴛ ᴏᴡɴᴇʀ : ${s.OWNER_NAME}
-┣◆ ᴘʀᴇғɪx :  [ ${s.PREFIXE} ]
-┣◆ ᴛɪᴍᴇ : ${temps}
-┣◆ ᴄᴏᴍᴍᴀɴᴅꜱ : ${cm.length} 
-┣◆ ᴅᴀᴛᴇ : ${date} 
-┣◆ ᴍᴏᴅᴇ : ${mode}  
-┣◆ ᴛɪᴍᴇ ᴢᴏɴᴇ : Africa/Dar Es Salam
-┣◆ ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀs : sir Jb
-┣◆ ᴘʟᴀᴛᴇғᴏʀᴍᴇ : ${os.platform()}
-┣◆ ʀᴀᴍ :  ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}
-╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷`;
+╭┈⊷〔 ✧⁠@𝘀𝗶𝗿 𝗵𝗮𝗽𝗽𝗶𝗻𝗲𝘀𝘀✧⁠〕┈⊷𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭
+┣◆ *ʙᴏᴛ ᴏᴡɴᴇʀ* : ${s.OWNER_NAME}
+┣◆ *ᴘʀᴇғɪx* :  *[ ${s.PREFIXE} ]*
+┣◆ *ᴛɪᴍᴇ* : ${temps}
+┣◆ *ᴄᴏᴍᴍᴀɴᴅꜱ* : ${cm.length} 
+┣◆ *ᴅᴀᴛᴇ* : ${date} 
+┣◆ *ᴍᴏᴅᴇ* : ${mode}  
+┣◆ *ᴛɪᴍᴇ ᴢᴏɴᴇ* : Africa/Dar Es Salam
+┣◆ *ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀs* : sir Jb
+┣◆ *ᴘʟᴀᴛᴇғᴏʀᴍᴇ* : ${os.platform()}
+┣◆ *ʀᴀᴍ* :  ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}
+╰┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻┻⊷\n
 
-    let menuMsg = `⚔️`;
-    
-    for (const cat in coms) {
-        menuMsg += `
+    let menuMsg = `
   REPLY A  WITH NAME CMD  
 
 1࿇ TYPE  AI MENU
