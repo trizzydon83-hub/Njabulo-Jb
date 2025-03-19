@@ -5,8 +5,9 @@
 
 
 
- 
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/happinessxmd"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/happiness-xmd"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
+
+  
   
 
 ## Contact me⤵️ channel update⤵️
