@@ -1,4 +1,4 @@
-## comming soon Stay wait for me Njabulo JB 
+## bot available create by Njabulo JB 
 
  
   <a href="https://njabulo-5778.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
@@ -6,7 +6,7 @@
 
 
  
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabo-Jb"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/happinessxmd"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
   
 
 ## Contact me⤵️ channel update⤵️
