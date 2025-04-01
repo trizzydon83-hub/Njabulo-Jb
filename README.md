@@ -16,7 +16,6 @@
   
   
 
-## ᴡᴀɴ ᴍᴇ⤵️ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ⤵️
-<a href="https://wa.me/26777821911"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T)
+
  
