@@ -24,7 +24,7 @@
 
 
 
-<p align="center"><img src="https://moe-counter.glitch.me/get/@LUCKY_MD?theme=gelbooru" alt="Lucky_Md_Visits_Counter" /></p>
+<p align="center"><img src="https://moe-counter.glitch.me/get/@Njabulo-Jb?theme=gelbooru" alt="Nkabulo-Jb_Visits_Counter" /></p>
 
 
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T)
