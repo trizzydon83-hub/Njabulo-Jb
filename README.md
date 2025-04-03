@@ -3,6 +3,11 @@
     <img alt="Njabulo-Jb logo" height="200" src="https://files.catbox.moe/1qetbh.jpg">
   </a>
 </p>
+<p align="center">
+ <a href="https://github.com/NjabuloJ?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/NiabuloJ?label=Followers&style=social"></a>
+<a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/NkabuloJ/Njabulo-Jb?&style=social"></a>
+<a href="https://github.com/Fred1e/lucky_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?style=social"></a>
+<a href="https://github.com/Fred1e/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NjabuloJ/Njabulo-Jb?label=Watching&style=social"></a>
 
 
 
@@ -14,7 +19,13 @@
  <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-JB1"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
 
   
-  
+  </p>
+
+
+
+
+<p align="center"><img src="https://moe-counter.glitch.me/get/@LUCKY_MD?theme=gelbooru" alt="Lucky_Md_Visits_Counter" /></p>
+
 
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T)
 
