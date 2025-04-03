@@ -5,7 +5,7 @@
 </p>
 <p align="center">
  <a href="https://github.com/NjabuloJ?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/NiabuloJ?label=Followers&style=social"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/NkabuloJ/Njabulo-Jb?&style=social"></a>
+<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="stars" src="https://img.shields.io/github/stars/NkabuloJ/Njabulo-Jb?&style=social"></a>
 <a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?style=social"></a>
 <a href="https://github.com/NjabuloJ/Njabulo-Jb/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NjabuloJ/Njabulo-Jb?label=Watching&style=social"></a>
 
