@@ -1,32 +1,44 @@
-<p align="center">
-  <a href="https://github.com/NjabuloJ">
-    <img alt="Njabulo-Jb logo" height="200" src="https://files.catbox.moe/1qetbh.jpg">
+
+
   </a>
-</p>
-<p align="center">
- <a href="https://github.com/NjabuloJ?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/NiabuloJ?label=Followers&style=social"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="stars" src="https://img.shields.io/github/stars/NkabuloJ/Njabulo-Jb?&style=social"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?style=social"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NjabuloJ/Njabulo-Jb?label=Watching&style=social"></a>
+  <hr style="margin-top: 20px; margin-bottom: 20px;"/>
+</div>
 
-
-
- 
-  <a href="https://pair-session.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
-
-
-
- <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Njabulo-JB1"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
-
-  
-  </p>
-
-
-
-
-<p align="center"><img src="https://moe-counter.glitch.me/get/@Njabulo-Jb?theme=gelbooru" alt="Nkabulo-Jb_Visits_Counter" /></p>
-
-
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T)
-
- 
+<table align="center" cellpadding="10" border="1">
+  <tr>
+    <td align="center">
+      <b>SESSION</b><br>
+      Link your session ID to start using the bot. Follow steps if issues arise.
+      <br><br>
+      <a href="https://pair-session.onrender.com/pair">
+        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <b>SESSION</b><br>
+      Link your session ID to start using the bot. Follow steps if issues arise.
+      <br><br>
+      <a href="https://pair-session.onrender.com/pair">
+        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>COMING SOON QUEEN-GRILLS</b><br>
+      ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
+      <br><br>
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-Jb&template=https://github.com/NjabuloJ/Njabulo-Jb.git">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+      </a>
+    </td>
+    <td align="center">
+      <b>DEPLOY NJABULO-JB</b><br>
+      ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
+      <br><br>
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-JB1 &template=https://github.com/NjabuloJ/Njabulo-JB1.git">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+      </a>
+    </td>
+  </tr>
+</table>
