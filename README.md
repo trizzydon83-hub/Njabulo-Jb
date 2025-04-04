@@ -10,7 +10,7 @@
       <b>SESSION</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
-      <a href="https://pair-session.onrender.com/pair">
+      <a href="https://pair-session.onrender.com/">
         <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
@@ -18,7 +18,7 @@
       <b>SESSION</b><br>
       Link your session ID to start using the bot. Follow steps if issues arise.
       <br><br>
-      <a href="https://pair-session.onrender.com/pair">
+      <a href="https://pair-session.onrender.com/">
         <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
