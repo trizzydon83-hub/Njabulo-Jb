@@ -159,8 +159,7 @@
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
        
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://x-bot-fork-cheacker.vercel.app/)*
-        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://njabulo-ten.vercel.app/)*
       </a>
     </td>
     <td align="center">
