@@ -158,7 +158,8 @@
       <b>DEPLOY NJABULO JB1</b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
-      <a[Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://x-bot-fork-cheacker.vercel.app/)
+       
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://x-bot-fork-cheacker.vercel.app/)*
         <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
