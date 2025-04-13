@@ -158,15 +158,16 @@
       <b>DEPLOY NJABULO JB1</b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
-       
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://njabulo-ten.vercel.app/)*
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-JB1&template=https://github.com/NjabuloJ/Njabulo-JB1.git">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
     <td align="center">
       <b>DEPLOY NJABULO-JB</b><br>
       ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
       <br><br>
-  ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://njabulo-ten.vercel.app/)*
+       <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo-JB1&template=https://github.com/NjabuloJ/Njabulo-JB1.git">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
       </a>
     </td>
   </tr>
