@@ -122,13 +122,13 @@
 
 
 </h1> 
-<p align="center">l introduce <b>vw golf</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>Njabulo-Jb-vw-golf</b>, a powerful simple WhatsApp bot </p>
 </p>
   <p align="center">
 <a href="https://github.com/NjabuloJ?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?label=Followers&style=social"></a>
-<a href="https://github.com/bmb200/Njabulo-Jb-vw-golf/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/NjabuloJ/VW-GOLF?&style=social"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb-vw-golf/fork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/VW-GOLF?style=social"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb-vw-golf/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NjabuloJ/VW-GOLF?label=Watching&style=social"></a>
+<a href="https://github.com/NjabuloJ/Njabulo-Jb-vw-golf/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/NjabuloJ/Njabulo-Jb-vw-golf?&style=social"></a>
+<a href="https://github.com/NjabuloJ/Njabulo-Jb-vw-golf/fork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb-vw-golf?style=social"></a>
+<a href="https://github.com/NjabuloJ/Njabulo-Jb-vw-golf/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NjabuloJ/Njabulo-Jb-vw-golf?label=Watching&style=social"></a>
 
 </p>
 
