@@ -121,6 +121,16 @@
 
 
 
+</h1> 
+<p align="center">l introduce <b>vw golf</b>, a powerful simple WhatsApp bot </p>
+</p>
+  <p align="center">
+<a href="https://github.com/NjabuloJ?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?label=Followers&style=social"></a>
+<a href="https://github.com/bmb200/VW-GOLF/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/NjabuloJ/VW-GOLF?&style=social"></a>
+<a href="https://github.com/NjabuloJ/VW-GOLF/fork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/VW-GOLF?style=social"></a>
+<a href="https://github.com/NjabuloJ/VW-GOLF/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NjabuloJ/VW-GOLF?label=Watching&style=social"></a>
+
+</p>
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
@@ -180,3 +190,18 @@
 𝗛𝗮𝗹𝗹𝗼 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗕 𝗪𝗔 𝗯𝗼𝘁 𝗺𝘂𝗹𝘁𝗶 𝗱𝗲𝘃𝗶𝗰𝗲 𝘁𝗮𝗻𝗸𝘀 𝘆𝗼𝘂 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗵𝗲𝗿𝗲 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱 𝘀𝘁𝗮𝘆 𝘆𝗼𝘂 𝘂𝗽𝗱𝗮𝘁𝗲𝗱 𝗶𝗳 𝘆𝗼𝘂 𝘀𝗲𝗲 𝗻𝗲𝘄 𝘂𝗽𝗱𝗮𝘁𝗲 𝗯𝗼𝘁 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗕 𝗯𝗼𝘁 𝗱𝗲𝘃𝗲𝗹𝗼𝗽 𝗯𝘆 𝗡𝗷𝗮𝗯𝘂𝗹𝗼 𝗝𝗕 𝗙𝗿𝗼𝗺 𝗕𝗼𝘁𝘀𝘄𝗮𝗻𝗮 𝗚𝗮𝗯𝗼𝗿𝗼𝗻𝗲 𝘁𝗼 𝗭𝗶𝗺𝗯𝗮𝗯𝘄𝗲. 𝗗𝗼𝗻'𝘁 𝗳𝗼𝗿𝗴𝗲𝘁 `𝘀𝘁𝗮𝗿𝘁` 𝗮𝗻𝗱 `𝗳𝗼𝗿𝗸𝘀` 𝘁𝗼 𝗺𝘆 𝗿𝗲𝗽𝗼. 𝗠𝗼𝗿𝗲 𝗰𝗺𝗱 𝗰𝗼𝗺𝗶𝗻𝗴 𝘀𝗼𝗼𝗻 𝗱𝗼𝗻'𝘁 𝘄𝗼𝗿𝗿𝘆 𝗴𝘂𝘆𝘀 𝗶𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝘁𝗮𝗹𝗸 𝘁𝗼 𝗺𝗲 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗽𝗿𝗲𝘀𝘀 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗺𝗲 𝗹 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗼𝗹𝗹 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗳𝗶𝘅𝗲𝗱 𝘁𝗼 𝘆𝗼𝘂 
 
 𝗡𝗜𝗖𝗘 𝗗𝗔𝗬 𝗠𝗬 𝗙𝗥𝗜𝗘𝗡𝗗 𝗘𝗡𝗝𝗢𝗬
+
+
+---
+
+## 📸 GARAGE NJABULO JB
+
+<p align="center">
+  <img src="https://files.catbox.moe/kzglx5.jpg" alt="vw golf Bot" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://files.catbox.moe/4azkap.jpg" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
+  <img src="https://files.catbox.moe/77eugh.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
+</p>
+
+---
+
+
