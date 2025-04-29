@@ -167,11 +167,11 @@
   </tr>
   <tr>
     <td align="center">
-      <b>Njabulo</b><br>
-      ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
+     <b>NJABULO APIs</b><br>
+      Visit our website for Keith APIs and integrations though still updating.
       <br><br>
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/NjabuloJ/Njabulo_Jb&template=https://github.com/NjabuloJ/Njabulo_Jb.git">
-        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
+      <a href="https://apis-keith.vercel.app/">
+        <img src="https://img.shields.io/badge/Visit%20KEITH%20APIs-blue" alt="Visit NJABULO APIs" width="200">
       </a>
     </td>
     <td align="center">
