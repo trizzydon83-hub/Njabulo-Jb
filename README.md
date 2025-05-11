@@ -154,7 +154,7 @@
 
 |--------------|------------------|
 |--------------|------------------|
-|  **tanks**   | **my followers**:<br> ❶. tanks [stargazers](https://github.com/NjabuloJ/Njabulo-Jb/stargazers)<br> ❷ numbers stars [stars] (http://reporoster.com/stars/dark/NjabuloJ/Njabulo-Jb) <br>
+|  **tanks**   | **my followers**:<br> ❶. tanks [stargazers](https://github.com/NjabuloJ/Njabulo-Jb/stargazers)<br> ❷ numbers stars [stars](http://reporoster.com/stars/dark/NjabuloJ/Njabulo-Jb) <br>
 |--------------|------------------|
 ---
 
