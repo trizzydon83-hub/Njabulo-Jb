@@ -151,6 +151,13 @@
 |--------------|------------------|
 ---
 
+
+|--------------|------------------|
+|--------------|------------------|
+|  **tanks**   | **my followers**:<br> ❶. tanks [stargazers](https://github.com/NjabuloJ/Njabulo-Jb/stargazers) <br>
+|--------------|------------------|
+---
+
 <h1 align="center">Thanks to our loyal folowers</h1>
 <p align="center">
   <a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers">
