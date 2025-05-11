@@ -154,7 +154,7 @@
 
 |--------------|------------------|
 |--------------|------------------|
-|  **tanks**   | **my followers**:<br> ❶. tanks [stargazers](https://github.com/NjabuloJ/Njabulo-Jb/stargazers) <br>
+|  **tanks**   | **my followers**:<br> ❶. tanks [stargazers](https://github.com/NjabuloJ/Njabulo-Jb/stargazers)<br> ❷ stars "http://reporoster.com/stars/dark/NjabuloJ/Njabulo-Jb" alt="Stargazers repo roster for @NjabuloJ/Njabulo-Jb" <br>
 |--------------|------------------|
 ---
 
