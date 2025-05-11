@@ -147,11 +147,13 @@
 
 |--------------|------------------|
 |--------------|------------------|
+|--------------|------------------|
 |  **tanks**   | **my followers**:<br> ❶. thanks [followers](https://github.com/NjabuloJ/Njabulo-Jb/network/members)<br> ❷. number forks [forks](http://reporoster.com/forks/dark/NjabuloJ/Njabulo-Jb)
 |--------------|------------------|
 ---
 
 
+|--------------|------------------|
 |--------------|------------------|
 |--------------|------------------|
 |  **tanks**   | **my followers**:<br> ❶. tanks [stargazers](https://github.com/NjabuloJ/Njabulo-Jb/stargazers)<br> ❷ numbers stars [stars](http://reporoster.com/stars/dark/NjabuloJ/Njabulo-Jb) <br>
