@@ -145,9 +145,13 @@
 <br> 
 ---
 
+|--------------|------------------|
+|--------------|------------------|
+|  **tanks**   | **my followers**:<br> ❶. thanks [followers](https://github.com/NjabuloJ/Njabulo-Jb/network/members)<br>
+|--------------|------------------|
+---
 
 <h1 align="center">Thanks to our loyal folowers</h1>
-
 <p align="center">
   <a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers">
     <img src="http://reporoster.com/stars/dark/NjabuloJ/Njabulo-Jb" alt="Stargazers repo roster for @NjabuloJ/Njabulo-Jb">
@@ -156,7 +160,7 @@
 
 <p align="center">
   <a href="https://github.com/NjabuloJ/Nkabulo-Jb/network/members">
-    <img src="http://reporoster.com/forks/dark/NjabuloJ/Njabulo-Jb" alt="Forkers repo roster for @NjabuloJ/Nkabulo-Jb">
+    <img src="http://reporoster.com/forks/dark/NjabuloJ/Njabulo-Jb" alt="Forkers repo roster for @NjabuloJ/Njabulo-Jb">
   </a>
 </p>
 
