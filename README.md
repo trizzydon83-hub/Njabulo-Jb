@@ -1,9 +1,5 @@
 <a href="https://stardev.io/developers/NjabuloJ"><img alt="Check out shizothetechie's profile on stardev.io" src="https://stardev.io/developers/NjabuloJ/badge/languages/global.svg" /></a>
 
-am sorry oll l will put back wait njabulo office repo
-
-<h1 align="center">  NJABULO JB REPO GIT </h1>
-  <a href="https://github.com/NjabuloJ/Njabulo-Jb"><img src="https://img.shields.io/badge/Repo%20Njabulo%20Jb-white" alt="LOADING BY NJABULO JB " width="300"></a>
   ### . Get Session ID via Pair Code
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
@@ -104,14 +100,14 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo-Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo_Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="32">
 </a>
 <br><strong>Heroku</strong><br>
 <em>Free tier available</em>
 </td>
 <td align="center" width="25%">
-<a href="https://railway.app/template/Njabulo-Jb?referralCode=elitechwiz">
+<a href="https://railway.app/template/Njabulo_Jb?referralCode=elitechwiz">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32">
 </a>
 <br><strong>Railway</strong><br>
@@ -145,7 +141,7 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <br><strong>Koyeb</strong>
 </td>
 <td align="center" width="20%">
-<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai&env=OPENAI_API_KEY,AI_PROVIDER,AI_MODEL,USE_PAIRING_CODE&envDescription=API%20keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai%23environment-variables&project-name=Njabulo-Jb&repository-name=Njabulo-Jb">
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai&env=OPENAI_API_KEY,AI_PROVIDER,AI_MODEL,USE_PAIRING_CODE&envDescription=API%20keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai%23environment-variables&project-name=Njabulo-Jb&repository-name=Njabulo_Jb">
 <img src="https://vercel.com/button" alt="Deploy with Vercel" height="32">
 </a>
 <br><strong>Vercel</strong>
@@ -192,7 +188,7 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 
 \`\`\`bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Eliahhango/elitechwiz-ai.git
+git clone https://github.com/NjabuloJ/Njabulo-Jb.git
 cd elitechwiz-ai
 
 # 2️⃣ Install dependencies
@@ -215,16 +211,16 @@ npm start
 
 \`\`\`bash
 # 1️⃣ Clone and navigate
-git clone https://github.com/Eliahhango/elitechwiz-ai.git
-cd elitechwiz-ai
+git clone https://github.com/NjabuloJ/njabulo-office-repo.git
+cd njabulo-office-repo
 
 # 2️⃣ Create environment file
 cp .env.example .env
 # Edit .env with your configuration
 
 # 3️⃣ Build and run with Docker
-docker build -t elitechwiz-ai .
-docker run -d --name elitechwiz-ai \\
+docker build -t njabulo js .
+docker run -d --name njabulo.js \\
   -p 3000:3000 \\
   -v $(pwd)/baileys_auth_info:/app/baileys_auth_info \\
   -v $(pwd)/logs:/app/logs \\
@@ -232,7 +228,7 @@ docker run -d --name elitechwiz-ai \\
   elitechwiz-ai
 
 # 4️⃣ Check logs for pairing code
-docker logs elitechwiz-ai
+docker logs njabulo-mpm
 \`\`\`
 
 </details>
@@ -627,9 +623,9 @@ vercel
 
 We welcome contributions! Here's how you can help:
 
-[![Contributors](https://img.shields.io/github/contributors/Eliahhango/elitechwiz-ai)](https://github.com/Eliahhango/elitechwiz-ai/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/Eliahhango/elitechwiz-ai)](https://github.com/Eliahhango/elitechwiz-ai/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Eliahhango/elitechwiz-ai)](https://github.com/Eliahhango/elitechwiz-ai/pulls)
+[![Contributors](https://img.shields.io/github/contributors/NjabuloJ/Njabulo-Jb)](https://github.com/NjabuloJ/Njabulo-Jb/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Eliahhango/elitechwiz-ai)](https://github.com/NjabuloJ/Njabulo-Jb/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/NjabuloJ/Njabulo-Jb)](https://github.com/Njabulo-Jb/elitechwiz-ai/pulls)
 
 </div>
 
@@ -719,11 +715,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Eliahhango/elitechwiz-ai&type=Date)](https://star-history.com/#Eliahhango/elitechwiz-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Eliahhango/Njabulo-Jb&type=Date)](https://star-history.com/#NjabuloJ/Njabulo-Jb&Date)
 
 ---
 
-**Made with ❤️ by the EliTechWiz Team**
+**Made with  by the Star dev Njabulo Jb Team**
 
 [⬆️ Back to Top](#-elitechwiz-ai)
 
