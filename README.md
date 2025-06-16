@@ -45,7 +45,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ---
 
-## ✨ **Features**
+## ✨ **Features Njabulo Jb**
 
 <table>
 <tr>
@@ -104,28 +104,28 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://heroku.com/deploy?template=https://github.com/Eliahhango/elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo-Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="32">
 </a>
 <br><strong>Heroku</strong><br>
 <em>Free tier available</em>
 </td>
 <td align="center" width="25%">
-<a href="https://railway.app/template/elitechwiz-ai?referralCode=elitechwiz">
+<a href="https://railway.app/template/Njabulo-Jb?referralCode=elitechwiz">
 <img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32">
 </a>
 <br><strong>Railway</strong><br>
 <em>$5/month</em>
 </td>
 <td align="center" width="25%">
-<a href="https://render.com/deploy?repo=https://github.com/Eliahhango/elitechwiz-ai&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://render.com/deploy?repo=https://github.com/NjabuloJ/Njabulo_Jb&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32">
 </a>
 <br><strong>Render</strong><br>
 <em>Free tier available</em>
 </td>
 <td align="center" width="25%">
-<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/Eliahhango/elitechwiz-ai/tree/main&refcode=elitechwiz">
+<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/NjabuloJ/Njabulo_Jb/tree/main&refcode=elitechwiz">
 <img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy to DigitalOcean" height="32">
 </a>
 <br><strong>DigitalOcean</strong><br>
@@ -139,25 +139,25 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Eliahhango/elitechwiz-ai&branch=main&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/NjabuloJ/Njabulo_Jb&branch=main&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" height="32">
 </a>
 <br><strong>Koyeb</strong>
 </td>
 <td align="center" width="20%">
-<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai&env=OPENAI_API_KEY,AI_PROVIDER,AI_MODEL,USE_PAIRING_CODE&envDescription=API%20keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai%23environment-variables&project-name=elitechwiz-ai&repository-name=elitechwiz-ai">
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai&env=OPENAI_API_KEY,AI_PROVIDER,AI_MODEL,USE_PAIRING_CODE&envDescription=API%20keys%20needed%20for%20the%20application&envLink=https%3A%2F%2Fgithub.com%2FEliahhango%2Felitechwiz-ai%23environment-variables&project-name=Njabulo-Jb&repository-name=Njabulo-Jb">
 <img src="https://vercel.com/button" alt="Deploy with Vercel" height="32">
 </a>
 <br><strong>Vercel</strong>
 </td>
 <td align="center" width="20%">
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/Eliahhango/elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/Njabulo/Njabulo_Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" height="32">
 </a>
 <br><strong>Netlify</strong>
 </td>
 <td align="center" width="20%">
-<a href="https://deploy.cloud.run?git_repo=https://github.com/Eliahhango/elitechwiz-ai">
+<a href="https://deploy.cloud.run?git_repo=https://github.com/NjabuloJ/Njabulo_Jb">
 <img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="32">
 </a>
 <br><strong>Google Cloud</strong>
