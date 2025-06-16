@@ -633,7 +633,7 @@ We welcome contributions! Here's how you can help:
 
 \`\`\`bash
 # Fork the repository
-git clone https://github.com/Eliahhango/elitechwiz-ai.git
+git clone https://github.com/NjabuloJ/njabulo-office-reoi.git
 cd elitechwiz-ai
 
 # Create feature branch
@@ -657,13 +657,13 @@ git push origin feature/amazing-feature
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/Eliahhango/elitechwiz-ai/issues">
+<a href="https://github.com/NjabuloJ/Njabulo-Jb/issues">
 <img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues">
 </a>
 <br><strong>Bug Reports</strong>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Eliahhango/elitechwiz-ai/discussions">
+<a href="https://github.com/NjabuloJ/Njabulo-Jb/discussions">
 <img src="https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github" alt="GitHub Discussions">
 </a>
 <br><strong>Questions</strong>
@@ -715,7 +715,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Eliahhango/Njabulo-Jb&type=Date)](https://star-history.com/#NjabuloJ/Njabulo-Jb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NjabuloJ/Njabulo-Jb&type=Date)](https://star-history.com/#NjabuloJ/Njabulo-Jb&Date)
 
 ---
 
