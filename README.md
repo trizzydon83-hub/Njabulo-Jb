@@ -33,73 +33,6 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 [🚀 Quick Deploy](#-one-click-deployment) • [📖 Documentation](#-features) • [🛠️ Setup](#-quick-start) • [💬 Support](#-support)
 
----
-
-## ⚠️ **Important Legal Notice**
-
-> **This project uses the Baileys library, which is an unofficial WhatsApp Web API client. Using this software might violate WhatsApp's Terms of Service. Use at your own risk and responsibility. This project is intended for educational and personal use only.**
-
----
-
-## ✨ **Features Njabulo Jb**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **AI-Powered**
-- 🧠 **Multiple AI Providers** - OpenAI & Anthropic support
-- 💬 **Context-Aware** - Remembers conversation history
-- 🎯 **Smart Responses** - Natural, human-like interactions
-- 🌍 **Multi-Language** - Responds in user's language
-
-</td>
-<td width="50%">
-
-### 📱 **WhatsApp Integration**
-- 🔐 **Dual Auth** - QR Code & Pairing Code support
-- 🔄 **Auto-Reconnect** - Never miss a message
-- 💾 **Session Persistence** - Maintains connection across restarts
-- ⚡ **Real-time** - Instant message processing
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛠️ **Developer Friendly**
-- 🚀 **One-Click Deploy** - Multiple platform support
-- 📊 **Health Monitoring** - Built-in status endpoints
-- 📝 **Comprehensive Logging** - Track all interactions
-- 🐳 **Docker Ready** - Containerized deployment
-
-</td>
-<td width="50%">
-
-### 🎮 **Rich Commands**
-- `/start` - Activate bot in chat
-- `/stop` - Deactivate bot
-- `/help` - Show all commands
-- `/status` - Bot statistics
-- `/clear` - Reset conversation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 **One-Click Deployment**
-
-Deploy EliTechWiz AI instantly to your favorite platform with pre-configured environment variables:
-
-<div align="center">
-
-### 🌟 **Recommended Platforms**
-
-<table>
-<tr>
-<td align="center" width="25%">
 <a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo_Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="32">
 </a>
@@ -169,113 +102,6 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 
 </div>
 
-> 💡 **Pro Tip**: After deployment, check your platform's logs to get the pairing code for WhatsApp authentication!
-
----
-
-## 🛠️ **Quick Start**
-
-### 📋 **Prerequisites**
-
-- 📱 **WhatsApp Account** - Active WhatsApp number
-- 🔑 **AI API Key** - [OpenAI](https://platform.openai.com/api-keys) or [Anthropic](https://console.anthropic.com/)
-- 💻 **Node.js 18+** - [Download here](https://nodejs.org/)
-
-### ⚡ **Installation**
-
-<details>
-<summary><strong>🖥️ Local Development Setup</strong></summary>
-
-\`\`\`bash
-# 1️⃣ Clone the repository
-git clone https://github.com/NjabuloJ/Njabulo-Jb.git
-cd elitechwiz-ai
-
-# 2️⃣ Install dependencies
-npm install
-
-# 3️⃣ Configure environment
-cp .env.example .env
-
-# 4️⃣ Edit .env file with your API keys
-nano .env  # or use your preferred editor
-
-# 5️⃣ Start the bot
-npm start
-\`\`\`
-
-</details>
-
-<details>
-<summary><strong>🐳 Docker Setup</strong></summary>
-
-\`\`\`bash
-# 1️⃣ Clone and navigate
-git clone https://github.com/NjabuloJ/njabulo-office-repo.git
-cd njabulo-office-repo
-
-# 2️⃣ Create environment file
-cp .env.example .env
-# Edit .env with your configuration
-
-# 3️⃣ Build and run with Docker
-docker build -t njabulo js .
-docker run -d --name njabulo.js \\
-  -p 3000:3000 \\
-  -v $(pwd)/baileys_auth_info:/app/baileys_auth_info \\
-  -v $(pwd)/logs:/app/logs \\
-  --env-file .env \\
-  elitechwiz-ai
-
-# 4️⃣ Check logs for pairing code
-docker logs njabulo-mpm
-\`\`\`
-
-</details>
-
----
-
-## 🔐 **WhatsApp Authentication**
-
-<div align="center">
-
-### Choose Your Authentication Method
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-#### 📱 **QR Code Method**
-*Quick & Easy*
-
-1. Set `USE_PAIRING_CODE=false`
-2. Run the bot
-3. Scan QR code with WhatsApp
-4. ✅ Connected!
-
-</td>
-<td width="50%" align="center">
-
-#### 🔢 **Pairing Code Method**
-*Recommended for Deployment*
-
-1. Set `USE_PAIRING_CODE=true`
-2. Add your `PHONE_NUMBER`
-3. Get 8-digit code from logs
-4. Enter in WhatsApp > Linked Devices
-5. ✅ Connected!
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎮 **Bot Commands**
-
-<div align="center">
 
 | Command | Description | Example |
 |---------|-------------|---------|
@@ -648,82 +474,45 @@ git push origin feature/amazing-feature
 
 ---
 
-## 💬 **Support**
+## 🚀 **One-Click Deployment**
+
+Deploy EliTechWiz AI instantly to your favorite platform with pre-configured environment variables:
 
 <div align="center">
 
-### 🆘 **Need Help?**
+### 🌟 **Recommended Platforms**
 
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/issues">
-<img src="https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github" alt="GitHub Issues">
+<a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo_Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="32">
 </a>
-<br><strong>Bug Reports</strong>
+<br><strong>Heroku</strong><br>
+<em>Free tier available</em>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/discussions">
-<img src="https://img.shields.io/badge/GitHub-Discussions-blue?style=for-the-badge&logo=github" alt="GitHub Discussions">
+<a href="https://railway.app/template/Njabulo_Jb?referralCode=elitechwiz">
+<img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32">
 </a>
-<br><strong>Questions</strong>
+<br><strong>Railway</strong><br>
+<em>$5/month</em>
 </td>
 <td align="center" width="25%">
-<a href="https://discord.gg/your-discord">
-<img src="https://img.shields.io/badge/Discord-Community-purple?style=for-the-badge&logo=discord" alt="Discord">
+<a href="https://render.com/deploy?repo=https://github.com/NjabuloJ/Njabulo_Jb&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32">
 </a>
-<br><strong>Live Chat</strong>
+<br><strong>Render</strong><br>
+<em>Free tier available</em>
 </td>
 <td align="center" width="25%">
-<a href="mailto:support@elitechwiz.com">
-<img src="https://img.shields.io/badge/Email-Support-green?style=for-the-badge&logo=gmail" alt="Email Support">
+<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/NjabuloJ/Njabulo_Jb/tree/main&refcode=elitechwiz">
+<img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy to DigitalOcean" height="32">
 </a>
-<br><strong>Direct Support</strong>
+<br><strong>DigitalOcean</strong><br>
+<em>$5/month</em>
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 📄 **License**
-
-<div align="center">
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-</div>
-
----
-
-## ⚠️ **Disclaimer**
-
-<div align="center">
-
-> **This project is not affiliated with, authorized by, maintained by, sponsored by, or endorsed by WhatsApp Inc. or any of its affiliates or subsidiaries. This is an independent project that uses unofficial APIs.**
-
-**Use at your own risk and ensure compliance with WhatsApp's Terms of Service.**
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NjabuloJ/Njabulo-Jb&type=Date)](https://star-history.com/#NjabuloJ/Njabulo-Jb&Date)
-
----
-
-**Made with  by the Star dev Njabulo Jb Team**
-
-[⬆️ Back to Top](#-elitechwiz-ai)
-
-</div>
-\`\`\`
-
-## 10. Let's create an Azure ARM template for deployment:
+### 🔧 **Additional Platforms**
