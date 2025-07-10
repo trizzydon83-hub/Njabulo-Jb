@@ -79,8 +79,8 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <em>$5/month</em>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/NjabuloJ/Njabulo-md&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
-<img src="https://render.com/deploy?repo=https://github.com/NjabuloJ/Njabulo-md" alt="Deploy to Render" height="32">
+<a href="https://github.com/NjabuloJ/Njabulo_Jb">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32">
 </a>
 <br><strong>Render</strong><br>
 <em>Free tier available</em>
