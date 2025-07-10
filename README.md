@@ -1,8 +1,8 @@
 <a href="https://stardev.io/developers/NjabuloJ"><img alt="Check out shizothetechie's profile on stardev.io" src="https://stardev.io/developers/NjabuloJ/badge/languages/global.svg" /></a>
 
-  ### . Get Session ID
+  📡*Njabulo session ID*
 
-pair code and scroll down deploy bot:
+*📃pair code and scroll down deploy bot:*
 
 <a href='https://njabulo-api-code.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>  
 
@@ -79,7 +79,7 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <em>$5/month</em>
 </td>
 <td align="center" width="25%">
-<a href="https://render.com/deploy?repo=https://github.com/NjabuloJ/Njabulo_Jb&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://render.com/deploy?repo=https://github.com/NjabuloJ/Njabulo-md&name=elitechwiz-ai&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32">
 </a>
 <br><strong>Render</strong><br>
