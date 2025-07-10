@@ -119,7 +119,7 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 </td>
 <td width="50%" align="center">
 
-#### 🔢 **Pairing Code Method**
+[_Pairing Code Method_]
 *Recommended for Deployment*
 
 1. Set `USE_PAIRING_CODE=true`
