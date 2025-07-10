@@ -1,6 +1,6 @@
 <a href="https://stardev.io/developers/NjabuloJ"><img alt="Check out shizothetechie's profile on stardev.io" src="https://stardev.io/developers/NjabuloJ/badge/languages/global.svg" /></a>
 
-  📡*Njabulo session ID*
+  📡 [_Njabulo session ID_]
 
 *📃pair code and scroll down deploy bot:*
 
