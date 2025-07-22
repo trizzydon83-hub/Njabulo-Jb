@@ -79,14 +79,14 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <em>$5/month</em>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/NjabuloJ/Njabulo-md">
+<a href="https://github.com/NjabuloJ/njabulo-office-repo">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="32">
 </a>
 <br><strong>Render is alive 🟢✅</strong><br>
 <em>Free tier available</em>
 </td>
 <td align="center" width="25%">
-<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/NjabuloJ/Njabulo-office-repo/tree/main&refcode=elitechwiz">
+<a href="https://github.com/NjabuloJ/Njabulo-office-repo/tree/main&refcode=elitechwiz">
 <img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy to DigitalOcean" height="32">
 </a>
 <br><strong>DigitalOcean</strong><br>
