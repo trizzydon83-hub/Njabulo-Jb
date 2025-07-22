@@ -65,7 +65,7 @@ Deploy EliTechWiz AI instantly to your favorite platform with pre-configured env
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo_Jb&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
+<a href="https://heroku.com/deploy?template=https://github.com/NjabuloJ/Njabulo-md&env[AI_PROVIDER]=openai&env[AI_MODEL]=gpt-4o&env[USE_PAIRING_CODE]=true">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="32">
 </a>
 <br><strong>Heroku is alive🟢✅</strong><br>
