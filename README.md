@@ -28,11 +28,8 @@ gantt
 
 
 ## [pair & deploy & come]
+[![External Plugins](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://github.com/SilvaTechB/EXTERNAL-PLUGINS)
 
-Boost your bot with external features!  
-[!External Plugins](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 ##  **[Njabulo Jb star dev Features message via ad]**
