@@ -30,7 +30,7 @@ gantt
 ## [pair & deploy & come]
 
 Boost your bot with external features!  
-[!NJABULO ONLINE](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
+[!External Plugins](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
