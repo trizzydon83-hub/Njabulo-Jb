@@ -9,7 +9,7 @@
 - Pending  [░░░░░░░░░░░░░░░░░░░░░░] 60%
 ```
 
-## ⏳ Timeline
+##  Timeline
 ```mermaid
 gantt
     title Maintenance Schedule
@@ -27,15 +27,15 @@ gantt
 
 
 
-## 🧩 Plugins
+## [pair & deploy & come]
 
 Boost your bot with external features!  
-[![External Plugins](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
+[!NJABULO JB ONLINE](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-## ✨ **Njabulo Jb star dev Features message via ad**
+##  **[Njabulo Jb star dev Features message via ad]**
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ Boost your bot with external features!
 </td>
 <td width="50%">
 
-### 📱 **WhatsApp Integration**
+### **[WhatsApp Integration]**
 - 🔐 **Dual Auth** - QR Code & Pairing Code support
 - 🔄 **Auto-Reconnect** - Never miss a message
 - 💾 **Session Persistence** - Maintains connection across restarts
@@ -61,7 +61,7 @@ Boost your bot with external features!
 <tr>
 <td width="50%">
 
-### 🛠️ **Developer Friendly**
+### **[Developer Friendly]**
 - 🚀 **One-Click Deploy** - Multiple platform support
 - 📊 **Health Monitoring** - Built-in status endpoints
 - 📝 **Comprehensive Logging** - Track all interactions
@@ -70,7 +70,7 @@ Boost your bot with external features!
 </td>
 <td width="50%">
 
-### 🎮 **Rich Commands**
+### **[Rich Commands]**
 - `/start` - Activate bot in chat
 - `/stop` - Deactivate bot
 - `/help` - Show all commands
@@ -83,7 +83,7 @@ Boost your bot with external features!
 
 ---
 
-## 🔐 **WhatsApp Authentication**
+##  **[WhatsApp Authentication]**
 
 <div align="center">
 
