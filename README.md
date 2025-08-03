@@ -3,7 +3,7 @@
   📡 [_Njabulo session ID_]
 
 
-<a href='active-deploy.vercel.app' target="_blank"><img alt='click here my friend' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>  
+<a href='active-deploy.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your list deploy-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>  
 
 ## ✨ **Njabulo Jb star dev Features message via ad**
 
