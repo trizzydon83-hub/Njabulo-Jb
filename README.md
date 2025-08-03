@@ -1,9 +1,39 @@
 <a href="https://stardev.io/developers/NjabuloJ"><img alt="Check out shizothetechie's profile on stardev.io" src="https://stardev.io/developers/NjabuloJ/badge/languages/global.svg" /></a>
 
-  📡 [_Njabulo session ID_]
+  
+**Status**: `Active Maintenance`  
+**Estimated Completion**: 2025-11-20  
+**Progress**: 
+```diff
++ Completed [██████████░░░░░░░░░░░░] 40%
+- Pending  [░░░░░░░░░░░░░░░░░░░░░░] 60%
+```
+
+## ⏳ Timeline
+```mermaid
+gantt
+    title Maintenance Schedule
+    dateFormat  YYYY-MM-DD
+    axisFormat %b %d
+    
+    section Core
+    Architecture Refactor     :active,  core, 2025-07-20, 30d
+    AI Integration            :         ai, after core, 45d
+    
+    section Interface
+    UI Redesign               :active,  ui, 2025-08-01, 60d
+    Mobile Overhaul           :         mobile, after ui, 30d
+```
 
 
-<a href='active-deploy.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your list deploy-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>  
+
+## 🧩 Plugins
+
+Boost your bot with external features!  
+[![External Plugins](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 ## ✨ **Njabulo Jb star dev Features message via ad**
 
