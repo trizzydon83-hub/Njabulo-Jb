@@ -28,7 +28,7 @@ gantt
 
 
 ## [pair & deploy & come]
-[![Njabulo Jb online](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://active-deploy.vercel.app)
+[![Njabulo Jb online](https://img.shields.io/badge/-External%20Plugins-4b5563?style=for-the-badge&logo=code&logoColor=white)]https://njabulo-jb-web-site.vercel.app)
 
 
 
