@@ -1,4 +1,4 @@
-<a href="https://stardev.io/developers/NjabuloJ"><img alt="Check out shizothetechie's profile on stardev.io" src="https://stardev.io/developers/NjabuloJ/badge/languages/global.svg" /></a>
+[![Check out NjabuloJ's profile on stardev.io](https://stardev.io/developers/NjabuloJ/badge/languages/global.svg)](https://stardev.io/developers/NjabuloJ)
 
   
 **Status**: `Active Maintenance`  
