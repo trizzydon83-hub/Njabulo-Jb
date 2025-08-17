@@ -27,13 +27,12 @@ gantt
 
 
 
-> follow on online 
+> *follow on online*
 
 [![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
 
 
-> 
-[![njabulo](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/koyeb.svg)](https://njabulojb-online.vercel.app/) <details><summary>Step-by-step</summary><ul><li>Click above to open deploy panel</li><li>Authorize GitHub and select repo</li><li>Set environment variables</li><li>Deploy and wait for logs to show successful build</li></ul></details>
+
 
 
 ##  **[Njabulo Jb star dev Features message via ad]**
@@ -83,24 +82,6 @@ gantt
 </tr>
 </table>
 
-
-> VideoTube
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-> StoreApp
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-
-> Njabulo AI
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-
-> website 
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
 
 
 
