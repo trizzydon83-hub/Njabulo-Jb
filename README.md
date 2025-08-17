@@ -32,8 +32,9 @@ gantt
 [![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulo-pair.vercel.app/)
 
 
-
-
+>deploy on
+>
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/NjabuloJb-max)
 
 ##  **[Njabulo Jb star dev Features message via ad]**
 
