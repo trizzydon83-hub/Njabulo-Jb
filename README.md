@@ -48,25 +48,6 @@ gantt
 </td>
 <td width="50%">
 
-> VideoTube
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-> follow on online 
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-
-> follow on online 
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-
-> follow on online 
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
-
-
 
 ### **[WhatsApp Integration]**
 - 🔐 **Dual Auth** - QR Code & Pairing Code support
@@ -98,6 +79,27 @@ gantt
 </td>
 </tr>
 </table>
+
+
+> VideoTube
+
+[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
+
+> StoreApp
+
+[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
+
+
+> Njabulo AI
+
+[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
+
+
+> website 
+
+[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
+
+
 
 ---
 
