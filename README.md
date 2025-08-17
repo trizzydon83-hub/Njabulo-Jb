@@ -33,7 +33,7 @@ gantt
 
 
 > 
-[![Koyeb](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/koyeb.svg)](https://njabulojb-online.vercel.app/) <details><summary>Step-by-step</summary><ul><li>Click above to open deploy panel</li><li>Authorize GitHub and select repo</li><li>Set environment variables</li><li>Deploy and wait for logs to show successful build</li></ul></details>
+[![njabulo](https://raw.githubusercontent.com/mr-X-force/LUCKY-MD-XFORCE/main/media/koyeb.svg)](https://njabulojb-online.vercel.app/) <details><summary>Step-by-step</summary><ul><li>Click above to open deploy panel</li><li>Authorize GitHub and select repo</li><li>Set environment variables</li><li>Deploy and wait for logs to show successful build</li></ul></details>
 
 
 ##  **[Njabulo Jb star dev Features message via ad]**
