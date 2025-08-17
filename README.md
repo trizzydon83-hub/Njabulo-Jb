@@ -1,6 +1,4 @@
-my data 
-
-[![Check out NjabuloJ's profile on stardev.io](https://stardev.io/developers/NjabuloJ/badge/languages/global.svg)](https://stardev.io/developers/NjabuloJ)
+> general hosting by Njabulo Jb WhatsApp bot multi device ✓
 
   
 **Status**: `Active Maintenance`  
@@ -49,6 +47,12 @@ gantt
 
 </td>
 <td width="50%">
+
+> VideoTube
+
+[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulojb-online.vercel.app/)
+
+
 
 ### **[WhatsApp Integration]**
 - 🔐 **Dual Auth** - QR Code & Pairing Code support
