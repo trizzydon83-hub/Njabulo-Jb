@@ -24,6 +24,8 @@ gantt
     UI Redesign               :active,  ui, 2025-08-01, 60d
     Mobile Overhaul           :         mobile, after ui, 30d
 ```
+WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VajcRr0GpLHR6PjdgN3N"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
+
 
 
 
