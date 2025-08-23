@@ -29,7 +29,7 @@ gantt
 
 > *Tap here Start building bot*
 
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulo-onlinebw.vercel.app/)
+[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://hoo.be/njabulo.onlinebw)
 
 
 
