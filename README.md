@@ -66,7 +66,7 @@ gantt
       <b>forks</b><br>
        hy welcome to repo fast forks jew
       <br><br>
-       <a href="https://github.com/NjabuloJ/Njabulo-Jb/forks">
+       <a href="https://github.com/NjabuloJ/Njabulo-Jb/fork">
         <img src="https://img.shields.io/badge/git%20repo%20forks-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
       </a>
