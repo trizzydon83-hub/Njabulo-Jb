@@ -48,17 +48,17 @@ gantt
   <tr>
     <td align="center">
       <b>FORK</b><br>
-      Fast Fork and star and get you session ld press Heroku deploy you bot.
+      hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ Njᥲbᥙᥣo Jb ᥴᥣιᥴk gᥱt bot
       <br><br>
-            <a href="https://fana-njabulo.onrender.com">
+            <a href="https://njabulo-onlinebw.vercel.app/">
         <img src="https://img.shields.io/badge/njᥲbᥙᥣo%20Jb%20onᥣιnᥱ-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
       </a>
     </td>
     <td align="center">
       <b>SESSION</b><br>
-      Link your session ID to start using the bot. Follow steps if issues arise.
+      hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ mιnιbot ᥴᥣιᥴk gᥱt bot.
       <br><br>
-      <a href="https://fana-njabulo.onrender.com">
+        <a href="https://hoo.be/njabulo.onlinebw">
         <img src="https://img.shields.io/badge/mιnι%20bot%20onᥣιnᥱ-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
