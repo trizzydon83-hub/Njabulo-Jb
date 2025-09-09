@@ -51,7 +51,7 @@ gantt
       Fast Fork and star and get you session ld press Heroku deploy you bot.
       <br><br>
             <a href="https://fana-njabulo.onrender.com">
-        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+        <img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
       </a>
     </td>
     <td align="center">
