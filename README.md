@@ -27,17 +27,6 @@ gantt
 
 
 
-> 1*Tap here Start building*
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://hoo.be/njabulo.onlinebw)
-
-
-> *Tap here Start building bot*
-
-[![Njabulo Jb online](https://img.shields.io/badge/-Njabulo%20serves-4b5563?style=for-the-badge&logo=code&logoColor=white)](https://njabulo-onlinebw.vercel.app/)
-
-
-
 ---
 
   </a>
@@ -47,7 +36,7 @@ gantt
 <table align="center" cellpadding="10" border="1">
   <tr>
     <td align="center">
-      <b>FORK</b><br>
+      <b>WhatsApp NjabulJb</b><br>
       hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ Njᥲbᥙᥣo Jb ᥴᥣιᥴk gᥱt bot
       <br><br>
             <a href="https://njabulo-onlinebw.vercel.app/">
@@ -55,7 +44,7 @@ gantt
       </a>
     </td>
     <td align="center">
-      <b>SESSION</b><br>
+      <b>WhatsApp minibot</b><br>
       hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ mιnιbot ᥴᥣιᥴk gᥱt bot.
       <br><br>
         <a href="https://hoo.be/njabulo.onlinebw">
@@ -65,19 +54,19 @@ gantt
   </tr>
   <tr>
     <td align="center">
-      <b>Njabulo</b><br>
-      ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
+      <b>WhatsApp channel</b><br>
+      welcome channel update 
       <br><br>
-      <a href="https://fana-njabulo.onrender.com">
+      <a href="https://whatsapp.com/channel/0029VbBKBfo1t90XmzJziw3f">
         <img src="https://img.shields.io/badge/WhatsApp%20bot%20update-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
       </a>
     </td>
     <td align="center">
-      <b>DEPLOY VW GOLF</b><br>
-      ᴅᴇᴘʟᴏʏ ᴛʜᴇ ʙᴏᴛ ᴜsᴇ ɴᴏʀᴍᴀʟ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡᴏʀᴋɪɴɢ 100% ɴᴏ ʙᴀɴɴᴇᴅ ʜᴇʀᴏᴋᴜ ᴀɴᴅ ᴡʜᴀᴛsᴀᴘᴘ ᴛᴀɴᴋs ʏᴏᴜ ᴇɴᴊᴏʏ.
+      <b>forks</b><br>
+       hy welcome to repo fast forks jew
       <br><br>
-       <a href="https://fana-njabulo.onrender.com">
+       <a href="https://github.com/NjabuloJ/Njabulo-Jb/forks">
         <img src="https://img.shields.io/badge/git%20repo%20forks-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
       </a>
