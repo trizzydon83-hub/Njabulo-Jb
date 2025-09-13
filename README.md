@@ -1,3 +1,18 @@
+<div align="center">
+
+<!-- Hero Header with Gradient Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=200&section=header&text=ASITHA%20MD%20V5&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
+
+<!-- Brand Logo -->
+<a href="https://asitha.top">
+  <img src="https://i.ibb.co/TBKZXRDF/2ed696a3-1e79-4b7f-8458-53a270cf43cd.jpg" alt="Brand Logo" border="2">
+</a>
+
+<!-- Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+ASITHA+MD+V5;⚡+Fast+Fast+Performance;✨+World's+Best+WhatsApp+Bot;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
+</p>
+
 > general hosting by Njabulo Jb WhatsApp bot multi device ✓
 
   
