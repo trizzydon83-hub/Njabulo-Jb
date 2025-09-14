@@ -50,8 +50,8 @@ gantt
       <b>WhatsApp NjabulJb</b><br>
       hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ Njᥲbᥙᥣo Jb ᥴᥣιᥴk gᥱt bot
       <br><br>
-            <a href="https://njabulo-onlinebw.vercel.app/">
-        <img src="https://img.shields.io/badge/njᥲbᥙᥣo%20Jb%20onᥣιnᥱ-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
+            <a href="https://njabulo-onlin.vercel.app/">
+        <img src="https://img.shields.io/badge/Njabulo%20Jb%20.-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
       </a>
     </td>
     <td align="center">
