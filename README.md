@@ -58,8 +58,8 @@ gantt
       <b>WhatsApp minibot</b><br>
       hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ mιnιbot ᥴᥣιᥴk gᥱt bot.
       <br><br>
-        <a href="https://hoo.be/njabulo.onlinebw">
-        <img src="https://img.shields.io/badge/mιnι%20bot%20onᥣιnᥱ-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+        <a href="https://minibot-online.vercel.app/">
+        <img src="https://img.shields.io/badge/Mini%20bot%20.-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
   </tr>
