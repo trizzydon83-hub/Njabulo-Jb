@@ -51,15 +51,15 @@ gantt
       hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ Njᥲbᥙᥣo Jb ᥴᥣιᥴk gᥱt bot
       <br><br>
             <a href="https://njabulo-onlin.vercel.app/">
-        <img src="https://img.shields.io/badge/Njabulo%20Jb%20.-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
+        <img src="https://img.shields.io/badge/ɴᴊᴀʙᴜʟᴏᴊʙ%20ʙᴏᴛ%20.-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
       </a>
     </td>
     <td align="center">
       <b>WhatsApp minibot</b><br>
-      hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ mιnιbot ᥴᥣιᥴk gᥱt bot.
+      hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ mιnιbot ᥴᥣιᥴk gᥱt bot.    
       <br><br>
         <a href="https://minibot-online.vercel.app/">
-        <img src="https://img.shields.io/badge/Mini%20bot%20.-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
+        <img src="https://img.shields.io/badge/ᴍɪɴɪ%20ʙᴏᴛ%20.-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
       </a>
     </td>
   </tr>
