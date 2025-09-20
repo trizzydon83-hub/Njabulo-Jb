@@ -48,7 +48,7 @@ gantt
   <tr>
     <td align="center">
       <b>WhatsApp NjabulJb</b><br>
-      hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ Njᥲbᥙᥣo Jb ᥴᥣιᥴk gᥱt bot
+      ᴘᴀɪʀ & ᴅᴇᴘʟᴏʏ
       <br><br>
             <a href="https://njabulo-onlin.vercel.app/">
         <img src="https://img.shields.io/badge/ɴᴊᴀʙᴜʟᴏᴊʙ%20ʙᴏᴛ%20.-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
@@ -56,7 +56,7 @@ gantt
     </td>
     <td align="center">
       <b>WhatsApp minibot</b><br>
-      hᥲᥣᥣo thιs onᥱ ᥕᥱbsιtᥱ mιnιbot ᥴᥣιᥴk gᥱt bot.    
+      ᴘᴀɪʀ & ᴅᴇᴘʟᴏʏ  
       <br><br>
         <a href="https://minibot-online.vercel.app/">
         <img src="https://img.shields.io/badge/ᴍɪɴɪ%20ʙᴏᴛ%20.-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
